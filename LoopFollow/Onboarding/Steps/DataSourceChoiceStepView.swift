@@ -54,10 +54,10 @@ struct DataSourceChoiceStepView: View {
                     .frame(width: 32)
 
                 VStack(alignment: .leading, spacing: 4) {
-                    Text(title)
+                    Text(NSLocalizedString(title, comment: "Data source title"))
                         .font(.headline)
                         .foregroundColor(.primary)
-                    Text(detail)
+                    Text(NSLocalizedString(detail, comment: "Data source description"))
                         .font(.subheadline)
                         .foregroundColor(.secondary)
                         .multilineTextAlignment(.leading)

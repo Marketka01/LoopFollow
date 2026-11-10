@@ -69,9 +69,9 @@ struct AlarmsStepView: View {
                     Image(systemName: display.icon)
                         .font(.system(size: 40, weight: .semibold))
                         .foregroundStyle(Color.accentColor)
-                    Text(display.title)
+                    Text(NSLocalizedString(display.title, comment: "Recommended alarm"))
                         .font(.title2.weight(.bold))
-                    Text(display.detail)
+                    Text(NSLocalizedString(display.detail, comment: "Recommended alarm"))
                         .font(.subheadline)
                         .foregroundColor(.secondary)
                         .multilineTextAlignment(.center)
@@ -140,7 +140,7 @@ struct AlarmsStepView: View {
         range: ClosedRange<Double>,
         keyPath: WritableKeyPath<Alarm, Double?>
     ) -> some View {
-        BGPicker(title: title, range: range, value: doubleBinding(seed, keyPath: keyPath))
+        BGPicker(title: localizedAlarmLabel(title), range: range, value: doubleBinding(seed, keyPath: keyPath))
     }
 
     private func doubleStepper(
@@ -188,10 +188,16 @@ struct AlarmsStepView: View {
             let perReading = Localizer.formatQuantity(delta)
 
             if window == 1 {
+                if Locale.current.languageCode == "cs" {
+                    return "Upozorní, pokud glykémie mezi dvěma měřeními klesne alespoň o \(perReading) \(unit)."
+                }
                 return "Warns when glucose falls by at least \(perReading) \(unit) between two readings."
             }
             let total = Localizer.formatQuantity(delta * Double(window))
             let minutes = window * 5
+            if Locale.current.languageCode == "cs" {
+                return "Upozorní, pokud glykémie při každém z \(window) po sobě jdoucích měření klesne alespoň o \(perReading) \(unit) – celkem přibližně o \(total) \(unit) za zhruba \(minutes) minut."
+            }
             return "Warns when glucose falls by at least \(perReading) \(unit) on each of \(window) readings in a row — about \(total) \(unit) over roughly \(minutes) minutes."
         default:
             return nil
@@ -208,9 +214,32 @@ struct AlarmsStepView: View {
         return AlarmEnumMenuPicker(title: "Active during", selection: binding)
     }
 
+    // Preserve existing Localizable.strings translations; use Czech fallbacks for
+    // alarm control labels that are not yet included in the catalog.
+    private func localizedAlarmLabel(_ key: String) -> String {
+        let translated = NSLocalizedString(key, comment: "Onboarding alarm control")
+        if translated != key || Locale.current.languageCode != "cs" {
+            return translated
+        }
+        let fallback: [String: String] = [
+            "Alert below": "Upozornit pod hodnotou",
+            "Alert above": "Upozornit nad hodnotou",
+            "Warn early by": "Upozornit s předstihem",
+            "Only after high for": "Až po trvání vysoké glykémie",
+            "Drop per reading": "Pokles při jednom měření",
+            "Readings in a row": "Počet měření za sebou",
+            "No reading for": "Bez měření po dobu",
+            "No loop for": "Bez smyčky po dobu",
+            "At or below": "Při hodnotě nebo pod ní",
+            "Remind after": "Připomenout po",
+            "Active during": "Aktivní během",
+        ]
+        return fallback[key] ?? key
+    }
+
     private func labelRow(_ label: String, value: String) -> some View {
         HStack {
-            Text(label)
+            Text(localizedAlarmLabel(label))
             Spacer()
             Text(value).foregroundColor(.secondary)
         }

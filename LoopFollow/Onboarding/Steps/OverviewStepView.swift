@@ -76,9 +76,9 @@ struct OverviewStepView: View {
                                 .frame(width: 32)
 
                             VStack(alignment: .leading, spacing: 4) {
-                                Text(item.title)
+                                Text(NSLocalizedString(item.title, comment: "Onboarding overview"))
                                     .font(.headline)
-                                Text(item.detail)
+                                Text(NSLocalizedString(item.detail, comment: "Onboarding overview"))
                                     .font(.subheadline)
                                     .foregroundColor(.secondary)
                                     .multilineTextAlignment(.leading)

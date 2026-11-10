@@ -23,11 +23,11 @@ struct OnboardingStepHeader: View {
                 .foregroundStyle(Color.accentColor)
                 .padding(.bottom, 2)
 
-            Text(title)
+            Text(NSLocalizedString(title, comment: "Onboarding heading"))
                 .font(.title2.weight(.bold))
                 .multilineTextAlignment(.leading)
 
-            Text(subtitle)
+            Text(NSLocalizedString(subtitle, comment: "Onboarding subtitle"))
                 .font(.subheadline)
                 .foregroundColor(.secondary)
                 .multilineTextAlignment(.leading)

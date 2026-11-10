@@ -1,6 +1,8 @@
 // LoopFollow
 // TabPosition.swift
 
+import Foundation
+
 enum TabPosition: String, CaseIterable, Codable, Comparable {
     case position1
     case position2
@@ -67,13 +69,13 @@ enum TabItem: String, CaseIterable, Codable, Identifiable {
 
     var displayName: String {
         switch self {
-        case .home: return "Home"
-        case .alarms: return "Alarms"
-        case .remote: return "Remote"
-        case .nightscout: return "Nightscout"
-        case .snoozer: return "Snoozer"
-        case .treatments: return "Treatments"
-        case .stats: return "Statistics"
+        case .home: return NSLocalizedString("Home", comment: "Tab name")
+        case .alarms: return NSLocalizedString("Alarms", comment: "Tab name")
+        case .remote: return NSLocalizedString("Remote", comment: "Tab name")
+        case .nightscout: return NSLocalizedString("Nightscout", comment: "Tab name")
+        case .snoozer: return NSLocalizedString("Snoozer", comment: "Tab name")
+        case .treatments: return NSLocalizedString("Treatments", comment: "Tab name")
+        case .stats: return NSLocalizedString("Statistics", comment: "Tab name")
         }
     }
 

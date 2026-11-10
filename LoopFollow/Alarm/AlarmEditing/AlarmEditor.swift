@@ -39,7 +39,7 @@ struct AlarmEditor: View {
                         }
                     }
                 }
-                .navigationTitle(alarm.type.rawValue)
+                .navigationTitle(NSLocalizedString(alarm.type.rawValue, comment: "Alarm type"))
         }
         .preferredColorScheme(Storage.shared.appearanceMode.value.colorScheme)
     }

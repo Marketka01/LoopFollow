@@ -68,7 +68,7 @@ struct WelcomeStepView: View {
     }
 
     private func primaryLabel(_ text: String) -> some View {
-        Text(text)
+        Text(NSLocalizedString(text, comment: "Onboarding primary button"))
             .font(.body.weight(.semibold))
             .frame(maxWidth: .infinity)
             .padding(.vertical, 4)

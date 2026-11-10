@@ -71,7 +71,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		D736FE5E8494B2581A4EA95F /* Exceptions for "LoopFollow" folder in "LoopFollow" target */ = {
+		D736FE5E8494B2581A4EA95F /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -81,43 +81,10 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		37A4BDDE2F5B6B4A00EEB289 /* LoopFollowLAExtension */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-			);
-			explicitFileTypes = {
-			};
-			explicitFolders = (
-			);
-			path = LoopFollowLAExtension;
-			sourceTree = "<group>";
-		};
-		9555FE45F7FAEFA6142D04CA /* LoopFollow */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				D736FE5E8494B2581A4EA95F /* Exceptions for "LoopFollow" folder in "LoopFollow" target */,
-			);
-			path = LoopFollow;
-			sourceTree = "<group>";
-		};
-		BC0FBFD3754955D028EF6631 /* Shared */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-			);
-			path = Shared;
-			sourceTree = "<group>";
-		};
-		DDCC3AD72DDE1790006F1C10 /* Tests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-			);
-			explicitFileTypes = {
-			};
-			explicitFolders = (
-			);
-			path = Tests;
-			sourceTree = "<group>";
-		};
+		37A4BDDE2F5B6B4A00EEB289 /* LoopFollowLAExtension */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = LoopFollowLAExtension; sourceTree = "<group>"; };
+		9555FE45F7FAEFA6142D04CA /* LoopFollow */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (D736FE5E8494B2581A4EA95F /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = LoopFollow; sourceTree = "<group>"; };
+		BC0FBFD3754955D028EF6631 /* Shared */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Shared; sourceTree = "<group>"; };
+		DDCC3AD72DDE1790006F1C10 /* Tests */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Tests; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -313,10 +280,11 @@
 			knownRegions = (
 				en,
 				Base,
+				cs,
 			);
 			mainGroup = FC97880B2485969B00A7906C;
 			packageReferences = (
-				DD50C10A2F60A00000000002 /* XCRemoteSwiftPackageReference "socket.io-client-swift" */,
+				DD50C10A2F60A00000000002 /* XCRemoteSwiftPackageReference "socket" */,
 			);
 			productRefGroup = FC9788152485969B00A7906C /* Products */;
 			projectDirPath = "";
@@ -490,7 +458,7 @@
 				CODE_SIGN_ENTITLEMENTS = LoopFollowLAExtensionExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "$(LF_DEVELOPMENT_TEAM)";
+				DEVELOPMENT_TEAM = HVDF45C46B;
 				ENABLE_APP_SANDBOX = NO;
 				ENABLE_HARDENED_RUNTIME = NO;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -542,7 +510,7 @@
 				CODE_SIGN_ENTITLEMENTS = LoopFollowLAExtensionExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "$(LF_DEVELOPMENT_TEAM)";
+				DEVELOPMENT_TEAM = HVDF45C46B;
 				ENABLE_APP_SANDBOX = NO;
 				ENABLE_HARDENED_RUNTIME = NO;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -772,7 +740,7 @@
 				CODE_SIGN_ENTITLEMENTS = "LoopFollow/Loop Follow.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "$(LF_DEVELOPMENT_TEAM)";
+				DEVELOPMENT_TEAM = HVDF45C46B;
 				INFOPLIST_FILE = LoopFollow/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -783,6 +751,7 @@
 				PRODUCT_NAME = "Loop Follow";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -797,7 +766,7 @@
 				CODE_SIGN_ENTITLEMENTS = "LoopFollow/Loop Follow.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "$(LF_DEVELOPMENT_TEAM)";
+				DEVELOPMENT_TEAM = HVDF45C46B;
 				INFOPLIST_FILE = LoopFollow/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -808,6 +777,7 @@
 				PRODUCT_NAME = "Loop Follow";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -855,7 +825,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		DD50C10A2F60A00000000002 /* XCRemoteSwiftPackageReference "socket.io-client-swift" */ = {
+		DD50C10A2F60A00000000002 /* XCRemoteSwiftPackageReference "socket" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/socketio/socket.io-client-swift";
 			requirement = {
@@ -868,7 +838,7 @@
 /* Begin XCSwiftPackageProductDependency section */
 		DD50C10A2F60A00000000003 /* SocketIO */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = DD50C10A2F60A00000000002 /* XCRemoteSwiftPackageReference "socket.io-client-swift" */;
+			package = DD50C10A2F60A00000000002 /* XCRemoteSwiftPackageReference "socket" */;
 			productName = SocketIO;
 		};
 /* End XCSwiftPackageProductDependency section */

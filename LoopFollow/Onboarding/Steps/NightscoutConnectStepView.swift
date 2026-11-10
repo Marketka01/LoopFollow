@@ -136,10 +136,10 @@ struct NightscoutConnectStepView: View {
             EmptyView()
         } header: {
             VStack(alignment: .leading, spacing: 6) {
-                Text(title)
+                Text(NSLocalizedString(title, comment: "Nightscout setup"))
                     .font(.title2.weight(.bold))
                     .foregroundColor(.primary)
-                Text(subtitle)
+                Text(NSLocalizedString(subtitle, comment: "Nightscout setup"))
                     .font(.subheadline)
                     .foregroundColor(.secondary)
             }
@@ -166,8 +166,11 @@ struct NightscoutConnectStepView: View {
                     .autocapitalization(.none)
                     .disableAutocorrection(true)
                     .foregroundColor(.primary)
-                    .onChange(of: viewModel.nightscoutURL) { newValue in
-                        viewModel.processURL(newValue)
+                    // Do not rewrite the bound URL on every keystroke.
+                    // In particular, processURL assigns to nightscoutURL again,
+                    // which can interfere with SwiftUI text input.
+                    .onSubmit {
+                        viewModel.processURL(viewModel.nightscoutURL)
                     }
             }
         } header: {

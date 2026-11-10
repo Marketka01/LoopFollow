@@ -28,7 +28,7 @@ struct AddAlarmSheet: View {
                     ForEach(AlarmType.Group.allCases, id: \.self) { group in
                         let types = AlarmType.allCases.filter { $0.group == group && matches($0) }
                         if !types.isEmpty {
-                            Section(header: Text(group.rawValue)
+                            Section(header: Text(NSLocalizedString(group.rawValue, comment: "Alarm group"))
                                 .font(.headline)
                                 .frame(maxWidth: .infinity, alignment: .leading)
                                 .padding(.horizontal, 4)

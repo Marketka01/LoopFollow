@@ -151,7 +151,7 @@ struct AlarmSelectionRow: View {
             HStack {
                 VStack(alignment: .leading, spacing: 4) {
                     HStack {
-                        Text(alarm.name)
+                        Text(NSLocalizedString(alarm.name, comment: "Alarm name"))
                             .font(.headline)
                             .foregroundColor(isDisabled ? .secondary : .primary)
 

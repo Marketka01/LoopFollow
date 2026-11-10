@@ -13,7 +13,7 @@ struct AlarmTile: View {
                 Image(systemName: type.icon)
                     .font(.title2)
                     .foregroundColor(.accentColor)
-                Text(type.rawValue)
+                Text(NSLocalizedString(type.rawValue, comment: "Alarm type"))
                     .font(.subheadline)
                     .multilineTextAlignment(.center)
                     .lineLimit(2)

@@ -149,7 +149,7 @@ struct AlarmListView: View {
                 )
 
                 VStack(alignment: .leading, spacing: 2) {
-                    Text(alarm.name)
+                    Text(NSLocalizedString(alarm.name, comment: "Alarm name"))
                         .foregroundColor(.primary)
 
                     if let until = alarm.snoozedUntil, until > now {

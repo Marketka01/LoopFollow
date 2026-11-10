@@ -10,9 +10,9 @@ struct SettingsMenuView: View {
     var body: some View {
         List {
             ForEach(SettingsRoute.menuSections(nightscoutConfigured: !nightscoutURL.value.isEmpty), id: \.0) { section, routes in
-                Section(section.rawValue) {
+                Section(NSLocalizedString(section.rawValue, comment: "Settings category")) {
                     ForEach(routes) { route in
-                        NavigationRow(title: route.title,
+                        NavigationRow(title: NSLocalizedString(route.title, comment: "Settings row"),
                                       icon: route.icon,
                                       value: route)
                     }

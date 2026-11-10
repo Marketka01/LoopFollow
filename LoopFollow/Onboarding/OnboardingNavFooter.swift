@@ -26,7 +26,7 @@ struct OnboardingNavFooter: View {
             Spacer()
 
             Button(action: onContinue) {
-                Text(continueTitle)
+                Text(LocalizedStringKey(continueTitle))
                     .font(.body.weight(.semibold))
                     .frame(minWidth: 120)
             }

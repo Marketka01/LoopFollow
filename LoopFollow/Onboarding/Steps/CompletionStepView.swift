@@ -86,9 +86,9 @@ struct CompletionStepView: View {
                         .frame(width: 26)
 
                     VStack(alignment: .leading, spacing: 2) {
-                        Text(gem.title)
+                        Text(NSLocalizedString(gem.title, comment: "Onboarding feature"))
                             .font(.subheadline.weight(.semibold))
-                        Text(gem.detail)
+                        Text(NSLocalizedString(gem.detail, comment: "Onboarding feature"))
                             .font(.caption)
                             .foregroundColor(.secondary)
                             .multilineTextAlignment(.leading)

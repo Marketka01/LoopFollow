@@ -42,9 +42,11 @@ struct NightscoutSettingsView: View {
                 .textContentType(.username)
                 .autocapitalization(.none)
                 .disableAutocorrection(true)
-                .onChange(of: viewModel.nightscoutURL) { newValue in
-                    viewModel.processURL(newValue)
-                }
+            // TEMPORARY DIAGNOSTIC TEST: Disable URL processing while typing.
+            // Restore this block after the keyboard-focus test.
+            // .onChange(of: viewModel.nightscoutURL) { newValue in
+            //     viewModel.processURL(newValue)
+            // }
         }
     }
 

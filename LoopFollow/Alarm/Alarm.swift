@@ -11,7 +11,7 @@ protocol DayNightDisplayable {
 
 extension DayNightDisplayable where Self: RawRepresentable, Self.RawValue == String {
     var displayName: String {
-        rawValue == "always" ? "Day & Night" : rawValue.capitalized
+        rawValue == "always" ? NSLocalizedString("Day & Night", comment: "Alarm schedule") : NSLocalizedString(rawValue.capitalized, comment: "Alarm schedule")
     }
 }
 

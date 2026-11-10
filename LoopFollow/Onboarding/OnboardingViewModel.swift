@@ -324,39 +324,39 @@ final class OnboardingViewModel: ObservableObject {
         }
 
         return [
-            seed(.low, title: "Low glucose",
+            seed(.low, title: NSLocalizedString("Low glucose", comment: "Recommended alarm"),
                  detail: "Warns when glucose is low, now or soon.",
                  requiresNightscout: false)
             {
-                $0.name = "Low glucose"
+                $0.name = NSLocalizedString("Low glucose", comment: "Recommended alarm")
                 $0.belowBG = 70
                 $0.predictiveMinutes = 20
             },
-            seed(.low, title: "Urgent low",
+            seed(.low, title: NSLocalizedString("Urgent low", comment: "Recommended alarm"),
                  detail: "A separate warning for when glucose is very low.",
                  requiresNightscout: false)
             {
-                $0.name = "Urgent low"
+                $0.name = NSLocalizedString("Urgent low", comment: "Recommended alarm")
                 $0.belowBG = 54
                 $0.predictiveMinutes = 0
                 $0.persistentMinutes = 0
             },
-            seed(.high, title: "High glucose",
+            seed(.high, title: NSLocalizedString("High glucose", comment: "Recommended alarm"),
                  detail: "Warns when glucose is high.",
                  requiresNightscout: false)
             {
                 $0.aboveBG = 180
             },
-            seed(.fastDrop, title: "Fast drop",
+            seed(.fastDrop, title: NSLocalizedString("Fast drop", comment: "Recommended alarm"),
                  detail: "Warns when glucose is falling quickly.",
                  requiresNightscout: false),
-            seed(.missedReading, title: "Missed readings",
+            seed(.missedReading, title: NSLocalizedString("Missed readings", comment: "Recommended alarm"),
                  detail: "Warns when glucose stops updating.",
                  requiresNightscout: false),
-            seed(.notLooping, title: "Not looping",
+            seed(.notLooping, title: NSLocalizedString("Not looping", comment: "Recommended alarm"),
                  detail: "Warns when the loop stops running.",
                  requiresNightscout: true),
-            seed(.battery, title: "Looping phone battery",
+            seed(.battery, title: NSLocalizedString("Looping phone battery", comment: "Recommended alarm"),
                  detail: "Warns when the battery of the phone running Loop or Trio is low.",
                  requiresNightscout: true),
             seed(.iob, title: "IOB",
@@ -365,21 +365,21 @@ final class OnboardingViewModel: ObservableObject {
             seed(.cob, title: "COB",
                  detail: "Warns when carbs on board are high.",
                  requiresNightscout: true),
-            seed(.sensorChange, title: "Sensor change",
+            seed(.sensorChange, title: NSLocalizedString("Sensor change", comment: "Recommended alarm"),
                  detail: "Reminds you when the CGM sensor is due.",
                  requiresNightscout: true)
             {
                 $0.threshold = 10
                 $0.activeOption = .day
             },
-            seed(.pumpChange, title: "Pump change",
+            seed(.pumpChange, title: NSLocalizedString("Pump change", comment: "Recommended alarm"),
                  detail: "Reminds you when the pump site is due.",
                  requiresNightscout: true)
             {
                 $0.threshold = 3
                 $0.activeOption = .day
             },
-            seed(.pump, title: "Pump insulin",
+            seed(.pump, title: NSLocalizedString("Pump insulin", comment: "Recommended alarm"),
                  detail: "Warns when pump reservoir insulin is low.",
                  requiresNightscout: true),
         ]
