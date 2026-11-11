@@ -1,0 +1,30 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "LoopFollow";
+
+/* Get Info string */
+"CFBundleGetInfoString" = "";
+
+/* Bundle name */
+"CFBundleName" = "Loop Follow";
+
+/* Privacy - Bluetooth Always Usage Description */
+"NSBluetoothAlwaysUsageDescription" = "Aplikace používá Bluetooth pro připojení k zařízením a zajištění činností na pozadí.";
+
+/* Privacy - Calendars Full Access Usage Description */
+"NSCalendarsFullAccessUsageDescription" = "Loop Follow žádá o přístup ke kalendáři pro aktualizaci hodnot glykémie.";
+
+/* Privacy - Calendars Usage Description */
+"NSCalendarsUsageDescription" = "Loop Follow žádá o přístup ke kalendáři pro ukládání hodnot glykémie.";
+
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Slouží ke skenování QR kódů pro vzdálené ověřování.";
+
+/* Privacy - Contacts Usage Description */
+"NSContactsUsageDescription" = "Aplikace potřebuje přístup ke kontaktům, aby mohla aktualizovat obrázek kontaktu podle aktuální glykémie.";
+
+/* Privacy - Face ID Usage Description */
+"NSFaceIDUsageDescription" = "Aplikace vyžaduje Face ID pro bezpečné ověřování.";
+
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "";
+
