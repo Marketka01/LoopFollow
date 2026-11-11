@@ -1,1 +1,1968 @@
-/* Czech localization */
+/* No comment provided by engineer. */
+" U" = " U";
+
+/* No comment provided by engineer. */
+"---" = "---";
+
+/* No comment provided by engineer. */
+"...because the data could not be loaded" = "...protože se nepodařilo načíst data";
+
+/* No comment provided by engineer. */
+"“Default Snooze” controls the default value for how long the alert stays quiet after you press Snooze. \"A snooze duration of 0 means the alarm is acknowledged (silenced), and will alert again next time the condition applies, without time limitation. \" Toggle “Snoozed” to mute this alarm right now." = "„Výchozí odložení“ určuje, na jak dlouho se alarm ztiší po stisknutí Odložit. Doba odložení 0 znamená potvrzení (ztišení) alarmu; při dalším splnění podmínky se znovu ozve bez časového omezení. Přepnutím „Odloženo“ tento alarm právě teď ztišíte.";
+
+/* No comment provided by engineer. */
+"“Snooze All” disables every alarm. “Mute All” silences phone sounds but still vibrates and shows iOS notifications." = "„Odložit vše“ vypne všechny alarmy. „Ztlumit vše“ vypne zvuky telefonu, ale vibrace a oznámení iOS zůstanou aktivní.";
+
+/* No comment provided by engineer. */
+"(%lld days)" = "(%lld dní)";
+
+/* No comment provided by engineer. */
+"#WeAreNotWaitingAnymore" = "#WeAreNotWaitingAnymore";
+
+/* No comment provided by engineer. */
+"#WeAreWaitingForData" = "#WeAreWaitingForData";
+
+/* No comment provided by engineer. */
+"%" = "%";
+
+/* No comment provided by engineer. */
+"%@  %@ → %@" = "%1$@  %2$@ → %3$@";
+
+/* No comment provided by engineer. */
+"%@ - %@" = "%1$@ - %2$@";
+
+/* No comment provided by engineer. */
+"%@ %@" = "%1$@ %2$@";
+
+/* No comment provided by engineer. */
+"%@U" = "%@U";
+
+/* No comment provided by engineer. */
+"%lld" = "%lld";
+
+/* No comment provided by engineer. */
+"%lld %@" = "%lld %@";
+
+/* No comment provided by engineer. */
+"%lld gaps" = "%lld výpadků";
+
+/* No comment provided by engineer. */
+"%lld hr" = "%lld h";
+
+/* No comment provided by engineer. */
+"%lld min" = "%lld min";
+
+/* No comment provided by engineer. */
+"%lld of %lld expected readings" = "%lld z %lld očekávaných měření";
+
+/* No comment provided by engineer. */
+"%lld sec" = "%lld s";
+
+/* No comment provided by engineer. */
+"%lld%%" = "%lld%%";
+
+/* No comment provided by engineer. */
+"%lldg" = "%lldg";
+
+/* No comment provided by engineer. */
+"••••••••" = "••••••••";
+
+/* No comment provided by engineer. */
+"+ 30m" = "+ 30m";
+
+/* No comment provided by engineer. */
+"− 30m" = "− 30m";
+
+/* No comment provided by engineer. */
+"⚠️ Please enable at least one limit." = "⚠️ Povolte alespoň jeden limit.";
+
+/* No comment provided by engineer. */
+"🌮" = "🌮";
+
+/* No comment provided by engineer. */
+"🍕" = "🍕";
+
+/* No comment provided by engineer. */
+"🍭" = "🍭";
+
+/* No comment provided by engineer. */
+"🍽️" = "🍽️";
+
+/* No comment provided by engineer. */
+"00" = "00";
+
+/* No comment provided by engineer. */
+"15m" = "15m";
+
+/* No comment provided by engineer. */
+"24h" = "24h";
+
+/* No comment provided by engineer. */
+"30m" = "30m";
+
+/* No comment provided by engineer. */
+"90m" = "90m";
+
+/* No comment provided by engineer. */
+"A silent tune will play in the background, keeping the app active. May be interrupted by other apps. Allows continuous updates but consumes more battery." = "Na pozadí se bude přehrávat tichý zvuk, který udrží aplikaci aktivní. Jiné aplikace jej mohou přerušit. Umožňuje průběžné aktualizace, ale zvyšuje spotřebu baterie.";
+
+/* No comment provided by engineer. */
+"Above: %@" = "Nad: %@";
+
+/* No comment provided by engineer. */
+"Absorption Time" = "Doba vstřebávání";
+
+/* No comment provided by engineer. */
+"Access Token" = "Přístupový token";
+
+/* No comment provided by engineer. */
+"Acknowledge" = "Potvrdit";
+
+/* No comment provided by engineer. */
+"Activate Override" = "Aktivovat přepsání nastavení";
+
+/* No comment provided by engineer. */
+"Active" = "Aktivní";
+
+/* No comment provided by engineer. */
+"Active During" = "Aktivní během";
+
+/* No comment provided by engineer. */
+"Active Override" = "Aktivní přepsání nastavení";
+
+/* No comment provided by engineer. */
+"Add Alarm" = "Přidat alarm";
+
+/* No comment provided by engineer. */
+"Add the Apple-Calendar complication to your watch or CarPlay to see BG readings. Create a separate calendar (e.g. “Follow”) — this view will **delete** events on the same calendar each time it writes new readings." = "Chcete-li zobrazovat hodnoty glykémie na hodinkách nebo v CarPlay, přidejte komplikaci Kalendáře Apple. Vytvořte samostatný kalendář (např. „Follow“) — při každém zápisu nových hodnot tato funkce **smaže** události v daném kalendáři.";
+
+/* No comment provided by engineer. */
+"Add the contact named '%@' to your watch face to show the current BG value in real time. Make sure to give the app full access to Contacts when prompted." = "Přidejte si na ciferník kontakt s názvem „%@“, aby se zobrazovala aktuální glykémie. Na vyžádání povolte aplikaci úplný přístup ke kontaktům.";
+
+/* No comment provided by engineer. */
+"Adding this alarm would exceed the QR code character limit. Please remove some alarms first." = "Přidáním tohoto alarmu by byl překročen limit znaků QR kódu. Nejprve některé alarmy odeberte.";
+
+/* No comment provided by engineer. */
+"Additional Information" = "Další informace";
+
+/* No comment provided by engineer. */
+"Adjust the background refresh type." = "Upravte způsob aktualizací na pozadí.";
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "Pokročilá nastavení";
+
+/* No comment provided by engineer. */
+"Alarm Name" = "Název alarmu";
+
+/* No comment provided by engineer. */
+"Alarm not found" = "Alarm nebyl nalezen";
+
+/* No comment provided by engineer. */
+"Alarm Settings" = "Nastavení alarmů";
+
+/* No comment provided by engineer. */
+"Alarms" = "Alarmy";
+
+/* No comment provided by engineer. */
+"Alarms can behave differently during the day and at night." = "Alarmy se mohou ve dne a v noci chovat odlišně.";
+
+/* No comment provided by engineer. */
+"Alert Sound" = "Zvuk upozornění";
+
+/* No comment provided by engineer. */
+"All" = "Vše";
+
+/* No comment provided by engineer. */
+"All alerts snoozed" = "Všechna upozornění odložena";
+
+/* No comment provided by engineer. */
+"All Alerts Snoozed" = "Všechny alarmy jsou odloženy";
+
+/* No comment provided by engineer. */
+"All glucose, insulin, and carb data. Your Nightscout URL and API token. Your Dexcom credentials. Remote-command secrets and APNS keys. Time zone. Location data. Logs — these are never sent automatically; the Settings → Logs sharing flow is unchanged and only triggered by you." = "Veškeré údaje o glykémii, inzulinu a sacharidech. Adresa Nightscoutu a API token. Přihlašovací údaje Dexcomu. Tajné klíče vzdálených příkazů a klíče APNS. Časové pásmo. Údaje o poloze. Protokoly — ty se nikdy neposílají automaticky; sdílení přes Nastavení → Protokoly se spouští pouze na váš pokyn.";
+
+/* No comment provided by engineer. */
+"All Sounds Muted" = "Všechny zvuky jsou ztlumeny";
+
+/* No comment provided by engineer. */
+"Always" = "Vždy";
+
+/* No comment provided by engineer. */
+"Ambulatory Glucose Profile (AGP)" = "Ambulantní glykemický profil (AGP)";
+
+/* No comment provided by engineer. */
+"API Secret" = "Tajný klíč API";
+
+/* No comment provided by engineer. */
+"APN" = "APN";
+
+/* No comment provided by engineer. */
+"APNs credentials are missing or invalid — Live Activity updates will not work. Open Settings → APN to fix." = "Přihlašovací údaje APNs chybí nebo jsou neplatné — aktualizace živé aktivity nebudou fungovat. Opravu provedete v Nastavení → APN.";
+
+/* No comment provided by engineer. */
+"APNS Environment: %@" = "Prostředí APNS: %@";
+
+/* No comment provided by engineer. */
+"APNS Key" = "Klíč APNS";
+
+/* No comment provided by engineer. */
+"APNS Key ID" = "ID klíče APNS";
+
+/* No comment provided by engineer. */
+"APNS warning: importing APNS settings will overwrite your existing APNS Key ID and APNS Key." = "Upozornění APNS: import nastavení přepíše stávající ID klíče APNS a klíč APNS.";
+
+/* No comment provided by engineer. */
+"App Settings" = "Nastavení aplikace";
+
+/* No comment provided by engineer. */
+"App version, build date, whether this is a TestFlight build, the install instance number, an Apple-supplied per-vendor identifier (IDFV) that resets when all this developer's apps are removed from the device, the hardware identifier (e.g. iPhone15,2), and iOS version. Whether Nightscout and Dexcom are configured (yes/no — no URLs or usernames). Which app you're following (Loop, Trio, etc), if known. A small set of preference flags (units, appearance mode, calendar/contact integration enabled, remote-command type, background refresh method). The full JSON is visible under Diagnostics → What's sent." = "Verze aplikace, datum sestavení, zda jde o sestavení TestFlight, číslo instance instalace, identifikátor dodavatele přidělený společností Apple (IDFV), který se obnoví po odstranění všech aplikací tohoto vývojáře ze zařízení, identifikátor zařízení (např. iPhone15,2) a verze iOS. Informace, zda jsou nastaveny Nightscout a Dexcom (ano/ne, bez URL adres a uživatelských jmen). Kterou aplikaci sledujete (Loop, Trio apod.), pokud je známa. Několik příznaků nastavení (jednotky, vzhled, zapnutá integrace kalendáře/kontaktů, typ vzdáleného příkazu, způsob aktualizace na pozadí). Úplný JSON najdete v Diagnostika → Co se odesílá.";
+
+/* No comment provided by engineer. */
+"Appearance" = "Vzhled";
+
+/* No comment provided by engineer. */
+"Are you sure you want to cancel the active override?" = "Opravdu chcete zrušit aktivní přepsání nastavení?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to cancel the existing temp target?" = "Opravdu chcete zrušit stávající dočasný cíl?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to send %@ U?" = "Opravdu chcete odeslat %@ j.?";
+
+/* No comment provided by engineer. */
+"Audio During Calls" = "Zvuk během hovorů";
+
+/* No comment provided by engineer. */
+"Auto‑Snooze CGM Start" = "Automaticky odložit alarm při spuštění CGM";
+
+/* No comment provided by engineer. */
+"Available Overrides" = "Dostupná přepsání nastavení";
+
+/* No comment provided by engineer. */
+"Available Variables" = "Dostupné proměnné";
+
+/* No comment provided by engineer. */
+"Back" = "Zpět";
+
+/* No comment provided by engineer. */
+"Background Color" = "Barva pozadí";
+
+/* No comment provided by engineer. */
+"Background Refresh Settings" = "Nastavení aktualizací na pozadí";
+
+/* No comment provided by engineer. */
+"Background Refresh Type" = "Způsob aktualizace na pozadí";
+
+/* No comment provided by engineer. */
+"band" = "band";
+
+/* No comment provided by engineer. */
+"Basal / BG Scale" = "Měřítko bazálu / glykémie";
+
+/* No comment provided by engineer. */
+"Below is the exact JSON object that LoopFollow would send to lf.bjorkert.se right now." = "Níže je přesný objekt JSON, který by LoopFollow právě teď odeslal na lf.bjorkert.se.";
+
+/* No comment provided by engineer. */
+"Below: %@" = "Pod: %@";
+
+/* No comment provided by engineer. */
+"bg" = "bg";
+
+/* No comment provided by engineer. */
+"BG Update Delay (Sec): %lld" = "Zpoždění aktualizace glykémie (s): %lld";
+
+/* No comment provided by engineer. */
+"Bolus" = "Bolus";
+
+/* No comment provided by engineer. */
+"Bolus Filter" = "Filtr bolusů";
+
+/* No comment provided by engineer. */
+"Bolus Increment" = "Krok bolusu";
+
+/* No comment provided by engineer. */
+"Bolus Increment: %.3f U" = "Krok bolusu: %.3f j.";
+
+/* No comment provided by engineer. */
+"Build Information" = "Informace o sestavení";
+
+/* No comment provided by engineer. */
+"Built-in" = "Vestavěné";
+
+/* No comment provided by engineer. */
+"Bundle ID: %@" = "ID balíčku: %@";
+
+/* No comment provided by engineer. */
+"Calculated %lld minute%@ ago" = "Vypočteno před %lld min%@";
+
+/* No comment provided by engineer. */
+"Calendar" = "Kalendář";
+
+/* No comment provided by engineer. */
+"Calendar access denied" = "Přístup ke kalendáři zamítnut";
+
+/* No comment provided by engineer. */
+"Calendar Text" = "Text v kalendáři";
+
+/* No comment provided by engineer. */
+"Cancel" = "Zrušit";
+
+/* No comment provided by engineer. */
+"Cancel Active Override" = "Zrušit aktivní přepsání nastavení";
+
+/* No comment provided by engineer. */
+"Cancel Override" = "Zrušit přepsání nastavení";
+
+/* No comment provided by engineer. */
+"Cancel Temp Target" = "Zrušit dočasný cíl";
+
+/* No comment provided by engineer. */
+"Carbs" = "Sacharidy";
+
+/* No comment provided by engineer. */
+"Category" = "Kategorie";
+
+/* No comment provided by engineer. */
+"Close" = "Zavřít";
+
+/* No comment provided by engineer. */
+"COB" = "COB";
+
+/* No comment provided by engineer. */
+"Color" = "Barva";
+
+/* No comment provided by engineer. */
+"Color BG Text" = "Barvit text glykémie";
+
+/* No comment provided by engineer. */
+"Color Mode" = "Barevný režim";
+
+/* No comment provided by engineer. */
+"Color Options" = "Možnosti barev";
+
+/* No comment provided by engineer. */
+"Coloring enabled" = "Barevné rozlišení zapnuto";
+
+/* No comment provided by engineer. */
+"Command Sent" = "Příkaz odeslán";
+
+/* No comment provided by engineer. */
+"Configure Loop APNS" = "Nastavit APNS pro Loop";
+
+/* No comment provided by engineer. */
+"Confirm" = "Potvrdit";
+
+/* No comment provided by engineer. */
+"Confirm & Import" = "Potvrdit a importovat";
+
+/* No comment provided by engineer. */
+"Confirm Bolus" = "Potvrdit bolus";
+
+/* No comment provided by engineer. */
+"Confirm Cancellation" = "Potvrdit zrušení";
+
+/* No comment provided by engineer. */
+"Confirm Carbs" = "Potvrdit sacharidy";
+
+/* No comment provided by engineer. */
+"Confirm Command" = "Potvrdit příkaz";
+
+/* No comment provided by engineer. */
+"Confirm Insulin" = "Potvrdit inzulin";
+
+/* No comment provided by engineer. */
+"Confirm Meal" = "Potvrdit jídlo";
+
+/* No comment provided by engineer. */
+"Connected" = "Připojeno";
+
+/* No comment provided by engineer. */
+"Consumption Time" = "Čas konzumace";
+
+/* No comment provided by engineer. */
+"Contact" = "Kontakt";
+
+/* No comment provided by engineer. */
+"Contact Integration" = "Integrace kontaktů";
+
+/* No comment provided by engineer. */
+"Continue" = "Pokračovat";
+
+/* No comment provided by engineer. */
+"Copy JSON" = "Kopírovat JSON";
+
+/* No comment provided by engineer. */
+"Create one for me" = "Vytvořit za mě";
+
+/* No comment provided by engineer. */
+"Create Read-Only Token" = "Vytvořit token pouze pro čtení";
+
+/* No comment provided by engineer. */
+"Creating read-only token…" = "Vytvářím token pouze pro čtení…";
+
+/* No comment provided by engineer. */
+"Current OTP Code" = "Aktuální kód OTP";
+
+/* No comment provided by engineer. */
+"Current Target" = "Aktuální cíl";
+
+/* No comment provided by engineer. */
+"Current Token:" = "Aktuální token:";
+
+/* No comment provided by engineer. */
+"Current TOTP Code:" = "Aktuální kód TOTP:";
+
+/* No comment provided by engineer. */
+"Current URL:" = "Aktuální URL:";
+
+/* No comment provided by engineer. */
+"Custom" = "Vlastní";
+
+/* No comment provided by engineer. */
+"Custom sounds stay on this device and aren't included in settings export." = "Vlastní zvuky zůstávají v tomto zařízení a nejsou součástí exportu nastavení.";
+
+/* No comment provided by engineer. */
+"Cutoffs in %@" = "Mezní hodnoty v %@";
+
+/* No comment provided by engineer. */
+"CV" = "CV";
+
+/* No comment provided by engineer. */
+"Data Availability" = "Dostupnost dat";
+
+/* No comment provided by engineer. */
+"Day / Night" = "Den / noc";
+
+/* No comment provided by engineer. */
+"Day / Night Schedule" = "Rozvrh den / noc";
+
+/* No comment provided by engineer. */
+"Day starts" = "Začátek dne";
+
+/* No comment provided by engineer. */
+"Debug / Info" = "Ladění / informace";
+
+/* No comment provided by engineer. */
+"Debug Log Level" = "Úroveň diagnostických záznamů";
+
+/* No comment provided by engineer. */
+"Default Snooze:" = "Výchozí odložení:";
+
+/* No comment provided by engineer. */
+"Delay Between Sounds" = "Prodleva mezi zvuky";
+
+/* No comment provided by engineer. */
+"Delete" = "Smazat";
+
+/* No comment provided by engineer. */
+"Delete Alarm" = "Smazat alarm";
+
+/* No comment provided by engineer. */
+"Delete this alarm?" = "Smazat tento alarm?";
+
+/* No comment provided by engineer. */
+"Delta" = "Změna";
+
+/* No comment provided by engineer. */
+"Description" = "Popis";
+
+/* No comment provided by engineer. */
+"Developer Team ID" = "ID vývojářského týmu";
+
+/* No comment provided by engineer. */
+"Device Data" = "Data zařízení";
+
+/* No comment provided by engineer. */
+"Device Token: %@" = "Token zařízení: %@";
+
+/* No comment provided by engineer. */
+"Device tokens are alternating in recent profile uploads (%lld tokens involved across %lld records). This usually means more than one app installation is uploading to the same Nightscout. Remove the app from spare or unused phones." = "Při posledním nahrávání profilů se střídají tokeny zařízení (%lld tokenů v %lld záznamech). Obvykle to znamená, že do stejného Nightscoutu odesílá data více instalací aplikace. Odeberte aplikaci ze záložních nebo nepoužívaných telefonů.";
+
+/* No comment provided by engineer. */
+"Dexcom Settings" = "Nastavení Dexcomu";
+
+/* No comment provided by engineer. */
+"Dexcom Share" = "Dexcom Share";
+
+/* No comment provided by engineer. */
+"dia" = "dia";
+
+/* No comment provided by engineer. */
+"Diagnostics" = "Diagnostika";
+
+/* No comment provided by engineer. */
+"Diagnostics unavailable: %@" = "Diagnostika není dostupná: %@";
+
+/* No comment provided by engineer. */
+"Disconnect" = "Odpojit";
+
+/* No comment provided by engineer. */
+"Disconnected for %@" = "Odpojeno po dobu %@";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Zavřít";
+
+/* No comment provided by engineer. */
+"Display" = "Zobrazení";
+
+/* No comment provided by engineer. */
+"Display App Badge" = "Zobrazovat odznak aplikace";
+
+/* No comment provided by engineer. */
+"Display Dots" = "Zobrazovat body";
+
+/* No comment provided by engineer. */
+"Display Lines" = "Zobrazovat čáry";
+
+/* No comment provided by engineer. */
+"Display Small Graph" = "Zobrazovat malý graf";
+
+/* No comment provided by engineer. */
+"Display Stats" = "Zobrazovat statistiky";
+
+/* No comment provided by engineer. */
+"Do you want to activate the override '%@'?" = "Chcete aktivovat přepsání nastavení „%@“?";
+
+/* No comment provided by engineer. */
+"Done" = "Hotovo";
+
+/* No comment provided by engineer. */
+"Download Prediction" = "Stahovat predikci";
+
+/* No comment provided by engineer. */
+"Download Treatments" = "Stahovat záznamy o léčbě";
+
+/* No comment provided by engineer. */
+"Drag to reorder" = "Přetažením změňte pořadí";
+
+/* No comment provided by engineer. */
+"Drag to reorder. Tap a row to set its visibility and colors." = "Přetažením změňte pořadí. Klepnutím na řádek nastavíte viditelnost a barvy.";
+
+/* No comment provided by engineer. */
+"Duration" = "Doba trvání";
+
+/* No comment provided by engineer. */
+"Duration: %@" = "Doba trvání: %@";
+
+/* No comment provided by engineer. */
+"Duration: %lld minutes" = "Doba trvání: %lld minut";
+
+/* No comment provided by engineer. */
+"Dynamic mode colors text based on BG range: Green (in range), Yellow (high), Red (low)" = "Dynamický režim barví text podle glykémie: zelená (v rozmezí), žlutá (vysoká), červená (nízká).";
+
+/* No comment provided by engineer. */
+"edge" = "edge";
+
+/* No comment provided by engineer. */
+"eHbA1c" = "eHbA1c";
+
+/* No comment provided by engineer. */
+"eHbA1c — an A1c estimate from your average glucose. GMI — Glucose Management Indicator, another A1c estimate from average glucose. % and mmol/mol (IFCC) are two scales for the result." = "eHbA1c — odhad HbA1c z průměrné glykémie. GMI — ukazatel řízení glykémie, další odhad HbA1c z průměrné glykémie. % a mmol/mol (IFCC) jsou dvě jednotky výsledku.";
+
+/* No comment provided by engineer. */
+"Enable coloring" = "Zapnout barevné rozlišení";
+
+/* No comment provided by engineer. */
+"Enable Contact BG Updates" = "Zapnout aktualizace glykémie v kontaktu";
+
+/* No comment provided by engineer. */
+"Enable indefinitely" = "Zapnout bez časového omezení";
+
+/* No comment provided by engineer. */
+"Enable Live Activity" = "Zapnout živou aktivitu";
+
+/* No comment provided by engineer. */
+"Enable Notifications" = "Povolit oznámení";
+
+/* No comment provided by engineer. */
+"Enable this alarm" = "Zapnout tento alarm";
+
+/* No comment provided by engineer. */
+"Enable WebSocket" = "Zapnout WebSocket";
+
+/* No comment provided by engineer. */
+"Enabled" = "Zapnuto";
+
+/* No comment provided by engineer. */
+"Enact" = "Provést";
+
+/* No comment provided by engineer. */
+"end" = "end";
+
+/* No comment provided by engineer. */
+"End Date" = "Datum ukončení";
+
+/* No comment provided by engineer. */
+"End now" = "Ukončit nyní";
+
+/* No comment provided by engineer. */
+"Endpoint" = "Koncový bod";
+
+/* No comment provided by engineer. */
+"English" = "Angličtina";
+
+/* No comment provided by engineer. */
+"Enter or paste your full Nightscout address. If the link already includes a token, we'll fill both in for you." = "Zadejte nebo vložte úplnou adresu Nightscoutu. Pokud odkaz již obsahuje token, vyplníme obě pole automaticky.";
+
+/* No comment provided by engineer. */
+"Enter QR code URL or scan from Loop app" = "Zadejte adresu URL z QR kódu nebo jej naskenujte z aplikace Loop";
+
+/* No comment provided by engineer. */
+"Enter URL" = "Zadejte URL";
+
+/* No comment provided by engineer. */
+"Enter User" = "Zadejte uživatele";
+
+/* No comment provided by engineer. */
+"Enter Username" = "Zadejte uživatelské jméno";
+
+/* No comment provided by engineer. */
+"Environment" = "Prostředí";
+
+/* No comment provided by engineer. */
+"Error" = "Chyba";
+
+/* No comment provided by engineer. */
+"Eventual" = "Případný";
+
+/* No comment provided by engineer. */
+"Existing Temp Target" = "Stávající dočasný cíl";
+
+/* No comment provided by engineer. */
+"Expected bg delay: %@" = "Očekávané zpoždění glykémie: %@";
+
+/* No comment provided by engineer. */
+"Expected: 1 CGM reading every 5 minutes" = "Očekáváno: 1 hodnota CGM každých 5 minut";
+
+/* No comment provided by engineer. */
+"Export" = "Exportovat";
+
+/* No comment provided by engineer. */
+"Export %@" = "Exportovat %@";
+
+/* No comment provided by engineer. */
+"Export Settings To QR Code" = "Exportovat nastavení do QR kódu";
+
+/* No comment provided by engineer. */
+"F%lld P%lld" = "F%lld P%lld";
+
+/* No comment provided by engineer. */
+"Failed to generate QR code" = "Nepodařilo se vytvořit QR kód";
+
+/* No comment provided by engineer. */
+"FALLING BG" = "KLESAJÍCÍ GLYKÉMIE";
+
+/* No comment provided by engineer. */
+"Features" = "Funkce";
+
+/* No comment provided by engineer. */
+"Filter" = "Filtr";
+
+/* No comment provided by engineer. */
+"Finish" = "Dokončit";
+
+/* No comment provided by engineer. */
+"Food Type" = "Typ jídla";
+
+/* No comment provided by engineer. */
+"Force portrait mode" = "Vynutit zobrazení na výšku";
+
+/* No comment provided by engineer. */
+"French" = "Francouzština";
+
+/* No comment provided by engineer. */
+"Frequency" = "Frekvence";
+
+/* The short unit display string for grams */
+"g" = "g";
+
+/* No comment provided by engineer. */
+"General" = "Obecné";
+
+/* No comment provided by engineer. */
+"General Settings" = "Obecná nastavení";
+
+/* No comment provided by engineer. */
+"Give each alarm a unique name—especially if you’ve added more than one of the same kind—so you can tell them apart at a glance." = "Každému alarmu dejte jedinečný název, zvlášť pokud máte více alarmů stejného typu, abyste je snadno rozlišili.";
+
+/* No comment provided by engineer. */
+"Glucose" = "Glykémie";
+
+/* No comment provided by engineer. */
+"Glucose Unit" = "Jednotka glykémie";
+
+/* No comment provided by engineer. */
+"Glucose value" = "Hodnota glykémie";
+
+/* No comment provided by engineer. */
+"Glycemic Metrics" = "Glykemické ukazatele";
+
+/* No comment provided by engineer. */
+"GMI" = "GMI";
+
+/* No comment provided by engineer. */
+"Graph Basal" = "Zobrazovat bazál v grafu";
+
+/* No comment provided by engineer. */
+"Graph Bolus" = "Zobrazovat bolusy v grafu";
+
+/* No comment provided by engineer. */
+"Graph Carbs" = "Zobrazovat sacharidy v grafu";
+
+/* No comment provided by engineer. */
+"Graph Display" = "Zobrazení grafu";
+
+/* No comment provided by engineer. */
+"Graph Other Treatments" = "Zobrazovat další záznamy o léčbě v grafu";
+
+/* No comment provided by engineer. */
+"Graph Settings" = "Nastavení grafu";
+
+/* No comment provided by engineer. */
+"GRI (Glucose Risk Index)" = "GRI (index glykemického rizika)";
+
+/* No comment provided by engineer. */
+"Grid Slot - CarPlay / Watch" = "Pozice v mřížce – CarPlay / hodinky";
+
+/* No comment provided by engineer. */
+"Grid Slots - Live Activity" = "Pozice v mřížce – živá aktivita";
+
+/* No comment provided by engineer. */
+"Guardrails" = "Bezpečnostní limity";
+
+/* No comment provided by engineer. */
+"Help us help you" = "Pomozte nám pomáhat vám";
+
+/* No comment provided by engineer. */
+"Help us help you!" = "Pomozte nám pomáhat vám!";
+
+/* No comment provided by engineer. */
+"Hide Information Table" = "Skrýt informační tabulku";
+
+/* No comment provided by engineer. */
+"high" = "high";
+
+/* No comment provided by engineer. */
+"High" = "Vysoká";
+
+/* No comment provided by engineer. */
+"highBoundary" = "highBoundary";
+
+/* No comment provided by engineer. */
+"History" = "Historie";
+
+/* No comment provided by engineer. */
+"Home" = "Domů";
+
+/* No comment provided by engineer. */
+"hour" = "hour";
+
+/* No comment provided by engineer. */
+"Hours" = "Hodiny";
+
+/* No comment provided by engineer. */
+"hyper" = "hyper";
+
+/* No comment provided by engineer. */
+"Hyperglycemia Component (%)" = "Složka hyperglykémie (%)";
+
+/* No comment provided by engineer. */
+"hypo" = "hypo";
+
+/* No comment provided by engineer. */
+"Hypoglycemia Component (%)" = "Složka hypoglykémie (%)";
+
+/* No comment provided by engineer. */
+"Character Limit Reached" = "Dosažen limit znaků";
+
+/* No comment provided by engineer. */
+"CHARGING" = "NABÍJENÍ";
+
+/* No comment provided by engineer. */
+"Checking Nightscout profile history…" = "Kontroluji historii profilů Nightscoutu…";
+
+/* No comment provided by engineer. */
+"Choose Tone" = "Vybrat zvuk";
+
+/* No comment provided by engineer. */
+"I have a token" = "Mám token";
+
+/* No comment provided by engineer. */
+"Ignore Zero BG" = "Ignorovat nulovou glykémii";
+
+/* No comment provided by engineer. */
+"Import Failed" = "Import se nezdařil";
+
+/* No comment provided by engineer. */
+"Import Settings" = "Importovat nastavení";
+
+/* No comment provided by engineer. */
+"Import Settings from QR Code" = "Importovat nastavení z QR kódu";
+
+/* No comment provided by engineer. */
+"Import Sound…" = "Importovat zvuk…";
+
+/* No comment provided by engineer. */
+"Import/Export Settings" = "Import/export nastavení";
+
+/* No comment provided by engineer. */
+"In Menu" = "V nabídce";
+
+/* No comment provided by engineer. */
+"Inactive" = "Neaktivní";
+
+/* No comment provided by engineer. */
+"Include Delta in" = "Zahrnout změnu glykémie do";
+
+/* No comment provided by engineer. */
+"Include IOB in" = "Zahrnout aktivní inzulin do";
+
+/* No comment provided by engineer. */
+"Include Trend in" = "Zahrnout trend do";
+
+/* No comment provided by engineer. */
+"Increment" = "Krok";
+
+/* No comment provided by engineer. */
+"Information Display Settings" = "Nastavení zobrazovaných informací";
+
+/* No comment provided by engineer. */
+"Insulin" = "Inzulin";
+
+/* No comment provided by engineer. */
+"Insulin Totals" = "Celkové dávky inzulinu";
+
+/* No comment provided by engineer. */
+"Insulin: %lld%%" = "Inzulin: %lld %%";
+
+/* No comment provided by engineer. */
+"Invalid APNs key" = "Neplatný klíč APNs";
+
+/* No comment provided by engineer. */
+"Invalid Key ID" = "Neplatné ID klíče";
+
+/* No comment provided by engineer. */
+"Invalid QR code URL" = "Neplatná adresa URL v QR kódu";
+
+/* No comment provided by engineer. */
+"IOB" = "IOB";
+
+/* No comment provided by engineer. */
+"Italian" = "Italština";
+
+/* No comment provided by engineer. */
+"Keep Screen Active" = "Udržovat obrazovku aktivní";
+
+/* No comment provided by engineer. */
+"Key ID must be exactly 10 uppercase letters or digits." = "ID klíče musí obsahovat přesně 10 velkých písmen nebo číslic.";
+
+/* No comment provided by engineer. */
+"Language" = "Jazyk";
+
+/* No comment provided by engineer. */
+"Last connection: %@" = "Poslední připojení: %@";
+
+/* No comment provided by engineer. */
+"Let's get you connected to your data and set up a few recommended alarms. It only takes a few minutes." = "Připojíme vás k vašim datům a nastavíme několik doporučených alarmů. Zabere to jen pár minut.";
+
+/* No comment provided by engineer. */
+"Line 1" = "Řádek 1";
+
+/* No comment provided by engineer. */
+"Line 2" = "Řádek 2";
+
+/* No comment provided by engineer. */
+"Live Activity" = "Live Activity";
+
+/* No comment provided by engineer. */
+"Live Activity Restarted" = "Živá aktivita restartována";
+
+/* No comment provided by engineer. */
+"Live Activity restarted." = "Živá aktivita byla restartována.";
+
+/* No comment provided by engineer. */
+"Live Activity updates require APNs credentials. Configure them in Settings → APN." = "Aktualizace Živé aktivity vyžadují přihlašovací údaje APNs. Nastavte je v Nastavení → APN.";
+
+/* No comment provided by engineer. */
+"Load More" = "Načíst další";
+
+/* No comment provided by engineer. */
+"Loading data..." = "Načítání dat…";
+
+/* No comment provided by engineer. */
+"Loading override presets..." = "Načítání předvoleb dočasných režimů…";
+
+/* No comment provided by engineer. */
+"Loading stats..." = "Načítání statistik…";
+
+/* No comment provided by engineer. */
+"Logging" = "Protokolování";
+
+/* No comment provided by engineer. */
+"Logging Options" = "Možnosti protokolování";
+
+/* No comment provided by engineer. */
+"Loop APNS Configuration" = "Nastavení APNS pro Loop";
+
+/* No comment provided by engineer. */
+"Loop APNS Not Configured" = "APNS pro Loop není nastaveno";
+
+/* No comment provided by engineer. */
+"Loop Remote Control" = "Vzdálené ovládání Loop";
+
+/* No comment provided by engineer. */
+"LoopFollow APNs Credentials" = "Přihlašovací údaje APNs pro LoopFollow";
+
+/* No comment provided by engineer. */
+"LoopFollow can't change Speak BG until your iPhone has been unlocked once after restarting." = "LoopFollow nemůže změnit hlasové čtení glykémie, dokud po restartu alespoň jednou neodemknete iPhone.";
+
+/* No comment provided by engineer. */
+"LoopFollow uses notifications to deliver your alarms — like low or high glucose, or a missed reading. Without them, alarms can't reach you when the app is in the background." = "LoopFollow používá oznámení pro doručování alarmů, například při nízké či vysoké glykémii nebo chybějícím měření. Bez povolených oznámení vás alarmy nezastihnou, když je aplikace na pozadí.";
+
+/* No comment provided by engineer. */
+"LoopFollow/Helpers/Telemetry.swift on GitHub." = "LoopFollow/Helpers/Telemetry.swift on GitHub.";
+
+/* No comment provided by engineer. */
+"low" = "low";
+
+/* No comment provided by engineer. */
+"Low" = "Nízká";
+
+/* No comment provided by engineer. */
+"lowBoundary" = "lowBoundary";
+
+/* No comment provided by engineer. */
+"max" = "max";
+
+/* No comment provided by engineer. */
+"Max" = "Max";
+
+/* No comment provided by engineer. */
+"Max %lld alarms at a time" = "Současně nejvýše %lld alarmů";
+
+/* No comment provided by engineer. */
+"Max Bolus" = "Maximální bolus";
+
+/* No comment provided by engineer. */
+"Max Carbs" = "Maximum sacharidů";
+
+/* No comment provided by engineer. */
+"Max Fat" = "Maximum tuků";
+
+/* No comment provided by engineer. */
+"Max Protein" = "Maximum bílkovin";
+
+/* No comment provided by engineer. */
+"Maximum" = "Maximum";
+
+/* No comment provided by engineer. */
+"Meal" = "Jídlo";
+
+/* No comment provided by engineer. */
+"Meal Data" = "Údaje o jídle";
+
+/* No comment provided by engineer. */
+"Meal Settings" = "Nastavení jídel";
+
+/* No comment provided by engineer. */
+"Meal with Bolus" = "Jídlo s bolusem";
+
+/* No comment provided by engineer. */
+"Meal with Fat/Protein" = "Jídlo s tuky/bílkovinami";
+
+/* No comment provided by engineer. */
+"Menu" = "Nabídka";
+
+/* No comment provided by engineer. */
+"Metric" = "Metrika";
+
+/* The short unit display string for milligrams of glucose per decilter */
+"mg/dL" = "mg/dL";
+
+/* No comment provided by engineer. */
+"midnight" = "midnight";
+
+/* No comment provided by engineer. */
+"min" = "min";
+
+/* No comment provided by engineer. */
+"Min" = "Min.";
+
+/* No comment provided by engineer. */
+"Minimum" = "Minimum";
+
+/* No comment provided by engineer. */
+"minutes" = "minut";
+
+/* No comment provided by engineer. */
+"Minutes" = "Minuty";
+
+/* The short unit display string for millimoles of glucose per liter */
+"mmol/L" = "mmol/L";
+
+/* No comment provided by engineer. */
+"mmol/mol" = "mmol/mol";
+
+/* No comment provided by engineer. */
+"Multiple devices uploading profiles" = "Více zařízení nahrává profily";
+
+/* No comment provided by engineer. */
+"Name" = "Název";
+
+/* No comment provided by engineer. */
+"New Target: %@ %@\nDuration: %lld minutes" = "Nový cíl: %@ %@\nDoba trvání: %lld minut";
+
+/* No comment provided by engineer. */
+"Night starts" = "Začátek noci";
+
+/* No comment provided by engineer. */
+"Nightscout Settings" = "Nastavení Nightscoutu";
+
+/* No comment provided by engineer. */
+"Nightscout URL" = "Nightscout URL";
+
+/* No comment provided by engineer. */
+"No alarms match “%@”." = "Žádné alarmy neodpovídají „%@“.";
+
+/* No comment provided by engineer. */
+"No background refresh. Alarms and updates will not work unless the app is open in the foreground." = "Obnovování na pozadí je vypnuté. Alarmy a aktualizace nebudou fungovat, pokud aplikace není otevřená v popředí.";
+
+/* No comment provided by engineer. */
+"No data available" = "Nejsou dostupná žádná data";
+
+/* No comment provided by engineer. */
+"No devices found yet. They'll appear here when discovered." = "Zatím nebyla nalezena žádná zařízení. Po nalezení se zobrazí zde.";
+
+/* No comment provided by engineer. */
+"No issues detected" = "Nebyly zjištěny žádné problémy";
+
+/* No comment provided by engineer. */
+"No matches for “%@”." = "Žádné shody pro „%@“.";
+
+/* No comment provided by engineer. */
+"No override presets found. Configure presets in your Loop app." = "Nebyly nalezeny žádné předvolby dočasných režimů. Nastavte je v aplikaci Loop.";
+
+/* No comment provided by engineer. */
+"No overrides available." = "Nejsou dostupné žádné dočasné režimy.";
+
+/* No comment provided by engineer. */
+"No recent treatments" = "Žádné nedávné záznamy o léčbě";
+
+/* No comment provided by engineer. */
+"No Results" = "Žádné výsledky";
+
+/* No comment provided by engineer. */
+"No thanks" = "Ne, děkuji";
+
+/* No comment provided by engineer. */
+"Not now" = "Teď ne";
+
+/* No comment provided by engineer. */
+"Not set" = "Nenastaveno";
+
+/* No comment provided by engineer. */
+"Note: The meal will be scheduled, but the bolus is enacted immediately." = "Poznámka: Jídlo bude naplánováno, ale bolus se podá okamžitě.";
+
+/* No comment provided by engineer. */
+"now" = "now";
+
+/* No comment provided by engineer. */
+"Off" = "Vypnuto";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Old Calculation Warning" = "Upozornění na zastaralý výpočet";
+
+/* No comment provided by engineer. */
+"On" = "Zapnuto";
+
+/* No comment provided by engineer. */
+"Once a day (or after a new build), the app sends a small JSON object to https://lf.bjorkert.se. The endpoint is self-hosted by the maintainer; no third-party analytics service is involved." = "Jednou denně (nebo po instalaci nové sestavy) aplikace odešle malý objekt JSON na https://lf.bjorkert.se. Server provozuje přímo správce projektu; nepoužívá se analytická služba třetí strany.";
+
+/* No comment provided by engineer. */
+"Once every 24 hours, plus once after installing a new build. The check runs in the background while the app is active or refreshing in the background." = "Jednou za 24 hodin a navíc po instalaci nové sestavy. Kontrola probíhá na pozadí při používání aplikace nebo při jejím obnovování na pozadí.";
+
+/* No comment provided by engineer. */
+"Opt out" = "Odhlásit se";
+
+/* No comment provided by engineer. */
+"Output Unit" = "Výstupní jednotka";
+
+/* No comment provided by engineer. */
+"Outside US" = "Mimo USA";
+
+/* No comment provided by engineer. */
+"Override" = "Dočasný režim";
+
+/* No comment provided by engineer. */
+"Override system volume" = "Přepsat systémovou hlasitost";
+
+/* No comment provided by engineer. */
+"Override System Volume" = "Přepsat systémovou hlasitost";
+
+/* No comment provided by engineer. */
+"Overrides" = "Dočasné úpravy";
+
+/* No comment provided by engineer. */
+"Overriding the system volume lets alarms be heard even when your phone is silenced or in a Focus mode." = "Přepsání systémové hlasitosti umožní slyšet alarmy i při ztlumeném telefonu nebo zapnutém režimu Soustředění.";
+
+/* No comment provided by engineer. */
+"Password" = "Heslo";
+
+/* No comment provided by engineer. */
+"Paste a Nightscout token. If your site needs one and you only have the API secret, paste that instead — LoopFollow can create a read-only token for you." = "Vložte token Nightscoutu. Pokud jej server vyžaduje a máte pouze tajný klíč API, vložte jej místo tokenu — LoopFollow může vytvořit token pouze pro čtení.";
+
+/* No comment provided by engineer. */
+"Paste the full .p8 contents — must include the BEGIN PRIVATE KEY and END PRIVATE KEY lines." = "Vložte celý obsah souboru .p8, včetně řádků BEGIN PRIVATE KEY a END PRIVATE KEY.";
+
+/* No comment provided by engineer. */
+"pct" = "pct";
+
+/* No comment provided by engineer. */
+"Percentage: %lld%%" = "Procenta: %lld %%";
+
+/* No comment provided by engineer. */
+"percentile" = "percentile";
+
+/* No comment provided by engineer. */
+"period" = "period";
+
+/* No comment provided by engineer. */
+"Persistent Notification" = "Trvalé oznámení";
+
+/* No comment provided by engineer. */
+"Play sound during calls" = "Přehrávat zvuk během hovorů";
+
+/* No comment provided by engineer. */
+"Please configure Loop APNS settings in Remote Settings to use APNS commands." = "Chcete-li používat příkazy APNS, nastavte APNS pro Loop v nastavení vzdáleného ovládání.";
+
+/* No comment provided by engineer. */
+"Please enter your APNs credentials in LoopFollow settings to use the Live Activity." = "Chcete-li používat živou aktivitu, zadejte v nastavení LoopFollow přihlašovací údaje APNs.";
+
+/* No comment provided by engineer. */
+"Please enter your Nightscout URL in Settings." = "Zadejte adresu Nightscoutu v Nastavení.";
+
+/* No comment provided by engineer. */
+"Please select a Remote Type in Settings." = "Vyberte typ vzdáleného ovládání v Nastavení.";
+
+/* No comment provided by engineer. */
+"Please wait..." = "Čekejte prosím…";
+
+/* No comment provided by engineer. */
+"Prediction" = "Predikce";
+
+/* No comment provided by engineer. */
+"Prediction Style" = "Styl predikce";
+
+/* No comment provided by engineer. */
+"Preset Name" = "Název předvolby";
+
+/* No comment provided by engineer. */
+"Preset: %@" = "Předvolba: %@";
+
+/* No comment provided by engineer. */
+"Presets" = "Předvolby";
+
+/* No comment provided by engineer. */
+"Privacy" = "Soukromí";
+
+/* No comment provided by engineer. */
+"Proactive Low" = "Včasné upozornění na nízkou glykémii";
+
+/* No comment provided by engineer. */
+"Production" = "Produkční prostředí";
+
+/* No comment provided by engineer. */
+"Production is used for browser builders and should be switched off for Xcode builders" = "Produkční režim se používá při sestavení přes prohlížeč a při sestavení v Xcode má být vypnutý.";
+
+/* No comment provided by engineer. */
+"QR Code URL" = "URL QR kódu";
+
+/* No comment provided by engineer. */
+"Range" = "Rozmezí";
+
+/* No comment provided by engineer. */
+"Range Mode" = "Režim rozsahu";
+
+/* No comment provided by engineer. */
+"rate" = "rate";
+
+/* No comment provided by engineer. */
+"Real-time Updates" = "Aktualizace v reálném čase";
+
+/* No comment provided by engineer. */
+"Recommended Bolus" = "Doporučený bolus";
+
+/* No comment provided by engineer. */
+"Reconnecting..." = "Opětovné připojování…";
+
+/* No comment provided by engineer. */
+"Refresh" = "Obnovit";
+
+/* No comment provided by engineer. */
+"Remote" = "Vzdálené ovládání";
+
+/* No comment provided by engineer. */
+"Remote Overrides" = "Vzdálené dočasné úpravy";
+
+/* No comment provided by engineer. */
+"Remote Settings" = "Nastavení vzdáleného ovládání";
+
+/* No comment provided by engineer. */
+"Requires a Dexcom G6/ONE/G7/ONE+ transmitter within Bluetooth range. Provides updates every 5 minutes and uses less battery than the silent tune method. If you have more than one device to choose from, select the one with the smallest expected bg delay." = "Vyžaduje vysílač Dexcom G6/ONE/G7/ONE+ v dosahu Bluetooth. Aktualizuje každých 5 minut a spotřebovává méně baterie než metoda tichého zvuku. Pokud můžete vybrat z více zařízení, zvolte to s nejmenším očekávaným zpožděním glykémie.";
+
+/* No comment provided by engineer. */
+"Requires a RileyLink-compatible device within Bluetooth range. Provides updates once per minute and uses less battery than the silent tune method." = "Vyžaduje zařízení kompatibilní s RileyLink v dosahu Bluetooth. Aktualizuje jednou za minutu a spotřebovává méně baterie než metoda tichého zvuku.";
+
+/* No comment provided by engineer. */
+"Requires an OmniPod DASH pod paired with this device within Bluetooth range. Provides updates once every 3 minutes and uses less battery than the silent tune method." = "Vyžaduje pod OmniPod DASH spárovaný s tímto zařízením v dosahu Bluetooth. Aktualizuje každé 3 minuty a spotřebovává méně baterie než metoda tichého zvuku.";
+
+/* No comment provided by engineer. */
+"Restart Live Activity" = "Restartovat živou aktivitu";
+
+/* No comment provided by engineer. */
+"Review setup anyway" = "Přesto zkontrolovat nastavení";
+
+/* No comment provided by engineer. */
+"Review the settings that will be imported" = "Zkontrolujte nastavení, která budou importována";
+
+/* No comment provided by engineer. */
+"Right slot" = "Pravá pozice";
+
+/* No comment provided by engineer. */
+"RISING BG" = "STOUPAJÍCÍ GLYKÉMIE";
+
+/* No comment provided by engineer. */
+"RSSI: %lld dBm" = "RSSI: %lld dBm";
+
+/* No comment provided by engineer. */
+"Run diagnostics" = "Spustit diagnostiku";
+
+/* No comment provided by engineer. */
+"Run diagnostics again" = "Spustit diagnostiku znovu";
+
+/* No comment provided by engineer. */
+"same time on prior day" = "same time on prior day";
+
+/* No comment provided by engineer. */
+"Save" = "Uložit";
+
+/* No comment provided by engineer. */
+"Save as Preset" = "Uložit jako předvolbu";
+
+/* No comment provided by engineer. */
+"Save BG to Calendar" = "Ukládat glykémii do kalendáře";
+
+/* No comment provided by engineer. */
+"Save Preset" = "Uložit předvolbu";
+
+/* No comment provided by engineer. */
+"Scan a different code" = "Naskenovat jiný kód";
+
+/* No comment provided by engineer. */
+"Scan QR Code" = "Naskenovat QR kód";
+
+/* No comment provided by engineer. */
+"Scan QR Code from Loop App" = "Naskenovat QR kód z aplikace Loop";
+
+/* No comment provided by engineer. */
+"Scan QR Code to Import Settings" = "Naskenovat QR kód pro import nastavení";
+
+/* No comment provided by engineer. */
+"Scan this QR code with another LoopFollow app to import %@" = "Naskenujte tento QR kód v jiné aplikaci LoopFollow a importujte %@";
+
+/* No comment provided by engineer. */
+"Scanned Token:" = "Naskenovaný token:";
+
+/* No comment provided by engineer. */
+"Scanned URL:" = "Naskenovaná URL:";
+
+/* No comment provided by engineer. */
+"Scanning for %@..." = "Vyhledávám %@…";
+
+/* No comment provided by engineer. */
+"Search" = "Hledat";
+
+/* No comment provided by engineer. */
+"Search alarms" = "Hledat alarmy";
+
+/* No comment provided by engineer. */
+"Secret" = "Tajný klíč";
+
+/* No comment provided by engineer. */
+"Security" = "Zabezpečení";
+
+/* No comment provided by engineer. */
+"See exactly what's sent" = "Zobrazit přesně odesílané údaje";
+
+/* No comment provided by engineer. */
+"Select Alarms to Export" = "Vybrat alarmy k exportu";
+
+/* No comment provided by engineer. */
+"Select End Date" = "Vybrat datum konce";
+
+/* No comment provided by engineer. */
+"Select Start Date" = "Vybrat datum začátku";
+
+/* No comment provided by engineer. */
+"Select the colors for your BG values. Note: not all watch faces allow control over colors. Recommend options like Activity or Modular Duo if you want to customize colors." = "Vyberte barvy hodnot glykémie. Poznámka: ne všechny ciferníky umožňují změnu barev. Pro vlastní barvy doporučujeme například Aktivita nebo Modulární Duo.";
+
+/* No comment provided by engineer. */
+"Select Time" = "Vybrat čas";
+
+/* No comment provided by engineer. */
+"Selected Alarms: %lld" = "Vybrané alarmy: %lld";
+
+/* No comment provided by engineer. */
+"Selected Device" = "Vybrané zařízení";
+
+/* No comment provided by engineer. */
+"Send" = "Odeslat";
+
+/* No comment provided by engineer. */
+"Send %@ units of insulin?" = "Odeslat %@ jednotek inzulinu?";
+
+/* No comment provided by engineer. */
+"Send %lldg of carbs with %@h absorption time at %@?" = "Odeslat %lld g sacharidů s dobou vstřebávání %@ h v %@?";
+
+/* No comment provided by engineer. */
+"Send anonymous usage stats" = "Odesílat anonymní statistiky používání";
+
+/* No comment provided by engineer. */
+"Send Bolus" = "Odeslat bolus";
+
+/* No comment provided by engineer. */
+"Send Carbs" = "Odeslat sacharidy";
+
+/* No comment provided by engineer. */
+"Send Insulin" = "Odeslat inzulin";
+
+/* No comment provided by engineer. */
+"Send Meal" = "Odeslat jídlo";
+
+/* No comment provided by engineer. */
+"Sending Bolus..." = "Odesílám bolus…";
+
+/* No comment provided by engineer. */
+"Sending Meal Data..." = "Odesílám údaje o jídle…";
+
+/* No comment provided by engineer. */
+"Sending..." = "Odesílám…";
+
+/* No comment provided by engineer. */
+"Sensitivity" = "Citlivost";
+
+/* No comment provided by engineer. */
+"series" = "series";
+
+/* No comment provided by engineer. */
+"Server" = "Server";
+
+/* No comment provided by engineer. */
+"Set Up Units" = "Nastavit jednotky";
+
+/* No comment provided by engineer. */
+"Settings" = "Nastavení";
+
+/* No comment provided by engineer. */
+"Settings imported — you're connected." = "Nastavení bylo importováno – jste připojeni.";
+
+/* No comment provided by engineer. */
+"Settings to Import" = "Nastavení k importu";
+
+/* No comment provided by engineer. */
+"sgv" = "sgv";
+
+/* No comment provided by engineer. */
+"share" = "share";
+
+/* No comment provided by engineer. */
+"Share" = "Sdílet";
+
+/* No comment provided by engineer. */
+"Share Logs" = "Sdílet protokoly";
+
+/* No comment provided by engineer. */
+"Shared Secret" = "Sdílený tajný klíč";
+
+/* No comment provided by engineer. */
+"Show −30 min Line" = "Zobrazovat čáru −30 min";
+
+/* No comment provided by engineer. */
+"Show −90 min Line" = "Zobrazovat čáru −90 min";
+
+/* No comment provided by engineer. */
+"Show Carb Absorption" = "Zobrazovat vstřebávání sacharidů";
+
+/* No comment provided by engineer. */
+"Show Carb/Bolus Values" = "Zobrazovat hodnoty sacharidů/bolusů";
+
+/* No comment provided by engineer. */
+"Show Delta" = "Zobrazovat změnu glykémie";
+
+/* No comment provided by engineer. */
+"Show DIA Lines" = "Zobrazovat čáry doby působení inzulinu";
+
+/* No comment provided by engineer. */
+"Show Display Name" = "Zobrazovat název";
+
+/* No comment provided by engineer. */
+"Show in Info Display" = "Zobrazovat v informačním panelu";
+
+/* No comment provided by engineer. */
+"Show IOB" = "Zobrazovat aktivní inzulin";
+
+/* No comment provided by engineer. */
+"Show Midnight Lines" = "Zobrazovat čáry půlnoci";
+
+/* No comment provided by engineer. */
+"Show Prior Day Time Lines" = "Zobrazovat časové čáry předchozího dne";
+
+/* No comment provided by engineer. */
+"Show Trend" = "Zobrazovat trend";
+
+/* No comment provided by engineer. */
+"Show Yesterday's BG" = "Zobrazovat včerejší glykémii";
+
+/* No comment provided by engineer. */
+"Schedule" = "Rozvrh";
+
+/* No comment provided by engineer. */
+"Schedule for later" = "Naplánovat na později";
+
+/* No comment provided by engineer. */
+"Site URL" = "URL serveru";
+
+/* No comment provided by engineer. */
+"Skip" = "Přeskočit";
+
+/* No comment provided by engineer. */
+"Skip if BG is falling" = "Přeskočit při klesající glykémii";
+
+/* No comment provided by engineer. */
+"Skip if BG is rising" = "Přeskočit při stoupající glykémii";
+
+/* No comment provided by engineer. */
+"Skip while charging" = "Přeskočit během nabíjení";
+
+/* No comment provided by engineer. */
+"Slovak" = "Slovenština";
+
+/* No comment provided by engineer. */
+"Small Graph" = "Malý graf";
+
+/* No comment provided by engineer. */
+"Snooze" = "Odložit";
+
+/* No comment provided by engineer. */
+"SNOOZE" = "ODLOŽIT";
+
+/* No comment provided by engineer. */
+"Snooze & Mute Options" = "Možnosti odložení a ztlumení";
+
+/* No comment provided by engineer. */
+"Snooze all · 1h" = "Odložit vše · 1 h";
+
+/* No comment provided by engineer. */
+"Snooze Date" = "Datum odložení";
+
+/* No comment provided by engineer. */
+"Snooze for" = "Odložit na";
+
+/* No comment provided by engineer. */
+"Snooze Time" = "Čas odložení";
+
+/* No comment provided by engineer. */
+"Snooze until (date)" = "Odložit do (datum)";
+
+/* No comment provided by engineer. */
+"Snooze until (time)" = "Odložit do (čas)";
+
+/* No comment provided by engineer. */
+"Snoozed" = "Odloženo";
+
+/* No comment provided by engineer. */
+"Snoozed until %@" = "Odloženo do %@";
+
+/* No comment provided by engineer. */
+"Snoozer emoji" = "Emoji odložení alarmů";
+
+/* No comment provided by engineer. */
+"Sound" = "Zvuk";
+
+/* No comment provided by engineer. */
+"Source" = "Zdroj";
+
+/* No comment provided by engineer. */
+"Speak BG" = "Hlasové čtení glykémie";
+
+/* No comment provided by engineer. */
+"Speak BG is now off." = "Hlasové čtení glykémie je vypnuto.";
+
+/* No comment provided by engineer. */
+"Speak BG is now on." = "Hlasové čtení glykémie je zapnuto.";
+
+/* No comment provided by engineer. */
+"start" = "start";
+
+/* No comment provided by engineer. */
+"Start Date" = "Datum začátku";
+
+/* No comment provided by engineer. */
+"Starts or restarts the LoopFollow Live Activity." = "Spustí nebo restartuje živou aktivitu LoopFollow.";
+
+/* No comment provided by engineer. */
+"Statistics" = "Statistiky";
+
+/* No comment provided by engineer. */
+"Status" = "Stav";
+
+/* No comment provided by engineer. */
+"Stay informed" = "Mějte přehled";
+
+/* No comment provided by engineer. */
+"Std Dev" = "Směrodatná odchylka";
+
+/* No comment provided by engineer. */
+"Std Dev — Standard Deviation, how much glucose swings around the average. CV — Coefficient of Variation, that swing relative to the average (Std Dev ÷ mean)." = "Směrodatná odchylka (Std Dev) — vyjadřuje kolísání glykémie kolem průměru. CV — variační koeficient, tedy kolísání vzhledem k průměru (směrodatná odchylka ÷ průměr).";
+
+/* No comment provided by engineer. */
+"Success" = "Úspěch";
+
+/* No comment provided by engineer. */
+"Support & Community" = "Podpora a komunita";
+
+/* No comment provided by engineer. */
+"Swedish" = "Švédština";
+
+/* No comment provided by engineer. */
+"Tab %lld" = "Záložka %lld";
+
+/* No comment provided by engineer. */
+"Tab 5" = "Záložka 5";
+
+/* No comment provided by engineer. */
+"Tab Order" = "Pořadí záložek";
+
+/* No comment provided by engineer. */
+"Tabs" = "Záložky";
+
+/* No comment provided by engineer. */
+"Tap to load older treatments" = "Klepnutím načtete starší záznamy";
+
+/* No comment provided by engineer. */
+"Target" = "Cíl";
+
+/* No comment provided by engineer. */
+"Target Range" = "Cílové rozmezí";
+
+/* No comment provided by engineer. */
+"Target: %@ %@" = "Target: %1$@ %2$@";
+
+/* No comment provided by engineer. */
+"Target: %@-%@" = "Target: %1$@-%2$@";
+
+/* No comment provided by engineer. */
+"Team ID: %@" = "ID týmu: %@";
+
+/* No comment provided by engineer. */
+"Temporary Target" = "Dočasný cíl";
+
+/* No comment provided by engineer. */
+"Text Color" = "Barva textu";
+
+/* No comment provided by engineer. */
+"Thanks for sharing these logs to help us find the problem. Please describe it in as much detail as possible — what time did it happen, what did you do, and what did you expect to happen that didn't?" = "Děkujeme za sdílení protokolů, které nám pomohou najít problém. Popište jej co nejpodrobněji — kdy k němu došlo, co jste udělali a co jste očekávali, ale nestalo se?";
+
+/* No comment provided by engineer. */
+"That's your API secret — create a read-only token" = "Toto je váš tajný klíč API — vytvořte token pouze pro čtení";
+
+/* No comment provided by engineer. */
+"The order of Fat and Protein inputs has changed." = "Pořadí zadávání tuků a bílkovin se změnilo.";
+
+/* No comment provided by engineer. */
+"The top 4 items appear in the tab bar. The Menu can always open every feature." = "První čtyři položky se zobrazují na liště záložek. Všechny funkce lze kdykoli otevřít z nabídky.";
+
+/* No comment provided by engineer. */
+"This TOTP code has already been used for a command. Please wait for the next code to be generated before sending another command." = "Tento kód TOTP již byl použit pro příkaz. Před odesláním dalšího příkazu počkejte na vygenerování nového kódu.";
+
+/* No comment provided by engineer. */
+"This will overwrite your current settings" = "Tímto přepíšete aktuální nastavení";
+
+/* No comment provided by engineer. */
+"time" = "time";
+
+/* No comment provided by engineer. */
+"Time" = "Čas";
+
+/* No comment provided by engineer. */
+"Time Remaining" = "Zbývající čas";
+
+/* No comment provided by engineer. */
+"Time Zone" = "Časové pásmo";
+
+/* No comment provided by engineer. */
+"Time Zone Override" = "Vlastní časové pásmo";
+
+/* No comment provided by engineer. */
+"TIR" = "TIR";
+
+/* No comment provided by engineer. */
+"TIR — Time in Range, the share of readings within %@.\nTITR — Time in Tight Range, within %@.\nCustom — set your own low and high." = "TIR – čas v cílovém rozmezí, podíl měření v rozmezí %1$@.\nTITR – čas v úzkém cílovém rozmezí %2$@.\nVlastní – nastavte si dolní a horní mez.";
+
+/* No comment provided by engineer. */
+"TITR" = "TITR";
+
+/* No comment provided by engineer. */
+"To see your trend, delta, or IOB, include them in another contact or create separate contacts. When using 'Include', select which contact to add the value to." = "Chcete-li zobrazovat trend, změnu glykémie nebo IOB, přidejte tyto údaje k jinému kontaktu nebo vytvořte samostatné kontakty. Při použití možnosti „Zahrnout“ vyberte kontakt, do kterého se má hodnota přidat.";
+
+/* No comment provided by engineer. */
+"Today's Logs" = "Dnešní protokoly";
+
+/* No comment provided by engineer. */
+"Token" = "Token";
+
+/* No comment provided by engineer. */
+"Token created" = "Token vytvořen";
+
+/* No comment provided by engineer. */
+"Tone" = "Tón";
+
+/* No comment provided by engineer. */
+"TOTP Code Already Used" = "Kód TOTP již byl použit";
+
+/* No comment provided by engineer. */
+"TOTP Code: Invalid QR code URL" = "Kód TOTP: neplatná URL QR kódu";
+
+/* No comment provided by engineer. */
+"Treatments" = "Záznamy léčby";
+
+/* No comment provided by engineer. */
+"Treatments on Small Graph" = "Záznamy o léčbě v malém grafu";
+
+/* No comment provided by engineer. */
+"Trend" = "Trend";
+
+/* No comment provided by engineer. */
+"Trio Remote Control" = "Vzdálené ovládání Trio";
+
+/* No comment provided by engineer. */
+"Trio Remote Control is only supported for 'Trio'" = "Vzdálené ovládání Tria je podporováno pouze pro „Trio“";
+
+/* No comment provided by engineer. */
+"Trio Remote Control Settings" = "Nastavení vzdáleného ovládání Tria";
+
+/* No comment provided by engineer. */
+"Turn Off Speak BG" = "Vypnout hlasové čtení glykémie";
+
+/* No comment provided by engineer. */
+"Turn On Speak BG" = "Zapnout hlasové čtení glykémie";
+
+/* No comment provided by engineer. */
+"Turns off Speak BG so LoopFollow stops reading glucose values aloud." = "Vypne hlasové čtení glykémie, takže LoopFollow přestane předčítat její hodnoty.";
+
+/* No comment provided by engineer. */
+"Turns on Speak BG so LoopFollow reads glucose values aloud." = "Zapne hlasové čtení glykémie, takže LoopFollow začne předčítat její hodnoty.";
+
+/* No comment provided by engineer. */
+"Type or paste a token, or a full Nightscout URL that includes a token." = "Zadejte nebo vložte token, případně úplnou adresu Nightscoutu obsahující token.";
+
+/* The short unit display string for international units of insulin */
+"U" = "U";
+
+/* No comment provided by engineer. */
+"Units and Metrics" = "Jednotky a metriky";
+
+/* No comment provided by engineer. */
+"Unknown Alert" = "Neznámé upozornění";
+
+/* No comment provided by engineer. */
+"Until" = "Do";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* No comment provided by engineer. */
+"URL/Token Update" = "Aktualizace URL/tokenu";
+
+/* No comment provided by engineer. */
+"URL/Token Validation" = "Ověření URL/tokenu";
+
+/* No comment provided by engineer. */
+"US" = "US";
+
+/* No comment provided by engineer. */
+"Use Anyway" = "Přesto použít";
+
+/* No comment provided by engineer. */
+"Use the Send anonymous usage stats toggle above. Turning it off is immediate and persistent." = "Použijte přepínač Odesílat anonymní statistiky používání výše. Vypnutí se projeví okamžitě a zůstane zachováno.";
+
+/* No comment provided by engineer. */
+"User" = "Uživatel";
+
+/* No comment provided by engineer. */
+"User Information" = "Informace o uživateli";
+
+/* No comment provided by engineer. */
+"Username" = "Uživatelské jméno";
+
+/* No comment provided by engineer. */
+"Valid APNs key" = "Platný klíč APNs";
+
+/* No comment provided by engineer. */
+"Valid Key ID" = "Platné ID klíče";
+
+/* No comment provided by engineer. */
+"Validation Error" = "Chyba ověření";
+
+/* No comment provided by engineer. */
+"Variability" = "Variabilita";
+
+/* No comment provided by engineer. */
+"View Log" = "Zobrazit protokol";
+
+/* No comment provided by engineer. */
+"Volume Buttons Snooze Alarms" = "Odkládat alarmy tlačítky hlasitosti";
+
+/* No comment provided by engineer. */
+"Volume Level: %lld%%" = "Úroveň hlasitosti: %lld %%";
+
+/* No comment provided by engineer. */
+"Warning" = "Upozornění";
+
+/* No comment provided by engineer. */
+"WARNING: New treatments may have occurred since the last recommended bolus was calculated %@ ago." = "VAROVÁNÍ: Od posledního výpočtu doporučeného bolusu před %@ mohly být zaznamenány další léčebné zásahy.";
+
+/* No comment provided by engineer. */
+"We'll ask iOS for permission next. You can change this any time in the Settings app." = "Nyní požádáme iOS o oprávnění. Kdykoli jej můžete změnit v aplikaci Nastavení.";
+
+/* No comment provided by engineer. */
+"Welcome to LoopFollow" = "Vítejte v LoopFollow";
+
+/* No comment provided by engineer. */
+"What is sent" = "Co se odesílá";
+
+/* No comment provided by engineer. */
+"What stays on your device" = "Co zůstává ve vašem zařízení";
+
+/* No comment provided by engineer. */
+"What's sent" = "Co se odesílá";
+
+/* No comment provided by engineer. */
+"When enabled, LoopFollow maintains a live connection to your Nightscout server using WebSocket while the app is in the foreground. Data updates (new glucose readings, treatments, device status) arrive within seconds instead of waiting for the next polling cycle.\n\nThe WebSocket disconnects when LoopFollow moves to the background and reconnects when you return to the app. Polling continues to handle updates while the app is in the background.\n\nIn the foreground, polling continues at a reduced frequency as a safety net. If the WebSocket connection drops, normal polling resumes immediately." = "Je-li tato možnost zapnutá, LoopFollow udržuje při otevřené aplikaci živé spojení se serverem Nightscout přes WebSocket. Aktualizace dat (nová měření glykémie, záznamy léčby a stav zařízení) přicházejí během několika sekund bez čekání na další pravidelné načtení.\n\nPo přechodu LoopFollow na pozadí se WebSocket odpojí a po návratu do aplikace se znovu připojí. Na pozadí se data nadále aktualizují pravidelným načítáním.\n\nV popředí pokračuje pravidelné načítání se sníženou četností jako záloha. Pokud spojení WebSocket vypadne, okamžitě se obnoví běžná četnost načítání.";
+
+/* No comment provided by engineer. */
+"yBottom" = "yBottom";
+
+/* No comment provided by engineer. */
+"Yes, send anonymous stats" = "Ano, odesílat anonymní statistiky";
+
+/* No comment provided by engineer. */
+"yMax" = "yMax";
+
+/* No comment provided by engineer. */
+"yMin" = "yMin";
+
+/* No comment provided by engineer. */
+"You can change this any time in Settings → General → Diagnostics." = "Toto nastavení můžete kdykoli změnit v Nastavení → Obecné → Diagnostika.";
+
+/* No comment provided by engineer. */
+"You can choose to share anonymous information with the developers to help improve LoopFollow — such as app and iOS version, device type, which app you're following, and a few settings. Your health data, credentials, time zone, and logs remain on your device." = "Můžete se rozhodnout sdílet s vývojáři anonymní informace pro zlepšování LoopFollow, například verzi aplikace a iOS, typ zařízení, sledovanou aplikaci a některá nastavení. Zdravotní údaje, přihlašovací údaje, časové pásmo a protokoly zůstávají ve vašem zařízení.";
+
+/* No comment provided by engineer. */
+"You can choose to share anonymous information with the developers to help improve LoopFollow—such as app and iOS version, device type, which app you're following, and a few settings. Your health data, credentials, time zone, and logs remain on your device." = "Můžete se rozhodnout sdílet s vývojáři anonymní informace pro zlepšování LoopFollow, například verzi aplikace a iOS, typ zařízení, sledovanou aplikaci a některá nastavení. Zdravotní údaje, přihlašovací údaje, časové pásmo a protokoly zůstávají ve vašem zařízení.";
+
+/* No comment provided by engineer. */
+"You're all set" = "Vše je připraveno";
+
+/* No comment provided by engineer. */
+"You're already set up. You can skip this guide, or walk through it to review your settings." = "Nastavení už máte hotové. Průvodce můžete přeskočit nebo si v něm zkontrolovat nastavení.";
+
+/* No comment provided by engineer. */
+"You're connected" = "Jste připojeni";
+
+/* No comment provided by engineer. */
+"You're ready to go. Adjust everything later from the Menu — and when you have a moment, these are worth a look:" = "Vše je připraveno. Další nastavení můžete kdykoli změnit v nabídce — až budete mít chvíli, doporučujeme projít také následující možnosti:";
+
+/* No comment provided by engineer. */
+"Your API secret is used once to create a read-only access token and is never stored." = "Tajný klíč API se použije pouze jednou k vytvoření přístupového tokenu pro čtení a nikdy se neukládá.";
+
+/* No comment provided by engineer. */
+"Your read-only token is ready. Tap Continue to keep going — your site may take a few minutes to start accepting it." = "Token pro přístup pouze ke čtení je připraven. Pokračujte klepnutím na „Pokračovat“. Server jej může začít přijímat až za několik minut.";
+
+/* No comment provided by engineer. */
+"Your read-only token is set up. Tap Continue to keep going." = "Token pro přístup pouze ke čtení je nastaven. Pokračujte klepnutím na „Pokračovat“.";
+
+/* No comment provided by engineer. */
+"yTop" = "yTop";
+
+/* No comment provided by engineer. */
+"zone" = "zone";
+
+
+/* Czech localization completion */
+"Get Started" = "Začít";
+/* Czech localization completion */
+"Overview" = "Přehled";
+/* Czech localization completion */
+"Data source" = "Zdroj dat";
+/* Czech localization completion */
+"Connect" = "Připojení";
+/* Czech localization completion */
+"Units & metrics" = "Jednotky a statistiky";
+/* Czech localization completion */
+"Alarm basics" = "Základní nastavení alarmů";
+/* Czech localization completion */
+"Notifications" = "Oznámení";
+/* Czech localization completion */
+"Connect to Nightscout" = "Připojení k Nightscoutu";
+/* Czech localization completion */
+"Choose a data source" = "Vyberte zdroj dat";
+/* Czech localization completion */
+"Enter your site address. We'll check it, and only ask for a token if your site needs one." = "Zadejte adresu svého Nightscoutu. Ověříme připojení a o token požádáme pouze v případě potřeby.";
+/* Czech localization completion */
+"Add a token" = "Přidat token";
+/* Czech localization completion */
+"This site needs a token. Paste one, or have LoopFollow create a read-only token from your API secret." = "Tento server vyžaduje token. Vložte ho nebo vytvořte token pouze pro čtení pomocí API secret.";
+/* Czech localization completion */
+"done — continue" = "hotovo – pokračovat";
+/* Czech localization completion */
+"Nightscout setup" = "Nastavení Nightscoutu";
+/* Czech localization completion */
+"Enter Token" = "Zadat token";
+/* Czech localization completion */
+"Enter API Secret" = "Zadat API secret";
+/* Czech localization completion */
+"Units" = "Jednotky";
+/* Czech localization completion */
+"Choose how glucose values are displayed. You can change this later in Settings." = "Vyberte způsob zobrazení glykémie. Později ho můžete změnit v nastavení.";
+/* Czech localization completion */
+"Choose how LoopFollow's statistics are measured and displayed." = "Vyberte způsob výpočtu a zobrazení statistik v LoopFollow.";
+/* Czech localization completion */
+"Contact image" = "Obrázek kontaktu";
+/* Czech localization completion */
+"Show your glucose on your Apple Watch face through a contact." = "Zobrazujte glykémii na ciferníku Apple Watch prostřednictvím kontaktu.";
+/* Czech localization completion */
+"Custom alarms" = "Vlastní alarmy";
+/* Czech localization completion */
+"Build your own alarms beyond the recommended set." = "Vytvořte si vlastní alarmy nad rámec doporučených.";
+/* Czech localization completion */
+"Remote commands" = "Vzdálené příkazy";
+/* Czech localization completion */
+"Send carbs, boluses, and temp targets to Trio or Loop." = "Odesílejte sacharidy, bolusy a dočasné cíle do Trio nebo Loop.";
+/* Czech localization completion */
+"LoopFollow needs a glucose data source. Pick one now — you can change or add more later in Settings." = "LoopFollow potřebuje zdroj údajů o glykémii. Vyberte jej nyní; později ho můžete změnit nebo přidat další.";
+/* Czech localization completion */
+"Nightscout" = "Nightscout";
+/* Czech localization completion */
+"Follow a Nightscout site. Works with Loop, Trio, and most uploaders. Enables the full set of LoopFollow features." = "Sledujte údaje ze serveru Nightscout. Funguje s Loop, Trio a většinou dalších aplikací. Zpřístupní všechny funkce LoopFollow.";
+/* Czech localization completion */
+"Follow glucose directly from a Dexcom Share account, without a Nightscout site." = "Sledujte glykémii přímo z účtu Dexcom Share bez Nightscoutu.";
+/* Czech localization completion */
+"Copy from another phone" = "Zkopírovat z jiného telefonu";
+/* Czech localization completion */
+"Already using LoopFollow on another phone? Scan its QR code to copy the connection here." = "Používáte LoopFollow na jiném telefonu? Naskenujte jeho QR kód a zkopírujte připojení.";
+/* Czech localization completion */
+"Alert below" = "Upozornit pod hodnotou";
+/* Czech localization completion */
+"Warn early by" = "Upozornit předem o";
+/* Czech localization completion */
+"Alert above" = "Upozornit nad hodnotou";
+/* Czech localization completion */
+"Only after high for" = "Až po překročení po dobu";
+/* Czech localization completion */
+"Drop per reading" = "Pokles mezi měřeními";
+/* Czech localization completion */
+"Readings in a row" = "Počet měření za sebou";
+/* Czech localization completion */
+"No reading for" = "Bez měření po dobu";
+/* Czech localization completion */
+"No loop for" = "Bez smyčky po dobu";
+/* Czech localization completion */
+"At or below" = "Na hodnotě nebo níže";
+/* Czech localization completion */
+"Remind after" = "Připomenout po";
+/* Czech localization completion */
+"days" = "dní";
+/* Czech localization completion */
+"Active during" = "Aktivní během";
+/* Czech localization completion */
+"Successfully imported" = "Úspěšně importováno";
+/* Czech localization completion */
+"On your other phone, open Settings → Nightscout (or Dexcom Share) → Import/Export and export to a QR code. Then scan it here." = "Na druhém telefonu otevřete Nastavení → Nightscout (nebo Dexcom Share) → Import/Export, vytvořte QR kód a zde jej naskenujte.";
+/* Czech localization completion */
+"Connect your data" = "Připojte svá data";
+/* Czech localization completion */
+"Link a Nightscout site or a Dexcom Share account." = "Připojte server Nightscout nebo účet Dexcom Share.";
+/* Czech localization completion */
+"Choose how glucose and statistics are shown." = "Zvolte způsob zobrazení glykémie a statistik.";
+/* Czech localization completion */
+"Recommended alarms" = "Doporučené alarmy";
+/* Czech localization completion */
+"Turn on a few useful alarms with sensible defaults." = "Zapněte několik užitečných alarmů s doporučeným nastavením.";
+/* Czech localization completion */
+"Finish up" = "Dokončení";
+/* Czech localization completion */
+"Arrange your tabs and set notification preferences." = "Uspořádejte karty a nastavte oznámení.";
+/* Czech localization completion */
+"Here's what we'll do" = "Co společně nastavíme";
+/* Czech localization completion */
+"A quick, straightforward setup — about 5 minutes. You can change anything later in Settings." = "Rychlé nastavení přibližně na 5 minut. Vše můžete později změnit v nastavení.";
+/* Czech localization completion */
+"Connect Dexcom Share" = "Připojit Dexcom Share";
+/* Czech localization completion */
+"Sign in with the Dexcom Share account that shares glucose data." = "Přihlaste se účtem Dexcom Share, který sdílí údaje o glykémii.";
+/* Czech localization completion */
+"Enter Password" = "Zadat heslo";
+/* Czech localization completion */
+"Set when your day and night begin, and how alarm sound behaves. You can fine-tune everything later in the Menu." = "Nastavte začátek dne a noci a chování zvukových alarmů. Podrobnosti můžete později upravit v nabídce.";
+/* Czech localization completion */
+"Arrange your tabs" = "Uspořádat karty";
+/* Czech localization completion */
+"Pick which features sit in the tab bar. You can always reach everything through the Menu." = "Vyberte funkce pro spodní lištu. Ostatní najdete v nabídce.";
+/* Czech localization completion */
+"Low glucose" = "Nízká glykémie";
+/* Czech localization completion */
+"Warns when glucose is low, now or soon." = "Upozorní na nízkou nebo brzy očekávanou nízkou glykémii.";
+/* Czech localization completion */
+"Urgent low" = "Kriticky nízká glykémie";
+/* Czech localization completion */
+"A separate warning for when glucose is very low." = "Samostatné upozornění při velmi nízké glykémii.";
+/* Czech localization completion */
+"High glucose" = "Vysoká glykémie";
+/* Czech localization completion */
+"Warns when glucose is high." = "Upozorní na vysokou glykémii.";
+/* Czech localization completion */
+"Fast drop" = "Rychlý pokles";
+/* Czech localization completion */
+"Warns when glucose is falling quickly." = "Upozorní na rychlý pokles glykémie.";
+/* Czech localization completion */
+"Missed readings" = "Chybějící měření";
+/* Czech localization completion */
+"Warns when glucose stops updating." = "Upozorní, když se přestanou aktualizovat údaje o glykémii.";
+/* Czech localization completion */
+"Not looping" = "Smyčka neběží";
+/* Czech localization completion */
+"Warns when the loop stops running." = "Upozorní, když se smyčka zastaví.";
+/* Czech localization completion */
+"Looping phone battery" = "Baterie telefonu se smyčkou";
+/* Czech localization completion */
+"Warns when the battery of the phone running Loop or Trio is low." = "Upozorní na nízkou baterii telefonu s Loop nebo Trio.";
+/* Czech localization completion */
+"Warns when insulin on board is high." = "Upozorní na vysoké množství aktivního inzulínu.";
+/* Czech localization completion */
+"Warns when carbs on board are high." = "Upozorní na vysoké množství aktivních sacharidů.";
+/* Czech localization completion */
+"Sensor change" = "Výměna senzoru";
+/* Czech localization completion */
+"Reminds you when the CGM sensor is due." = "Připomene termín výměny senzoru CGM.";
+/* Czech localization completion */
+"Pump change" = "Výměna pumpy";
+/* Czech localization completion */
+"Reminds you when the pump site is due." = "Připomene termín výměny infuzního setu nebo patche.";
+/* Czech localization completion */
+"Pump insulin" = "Inzulín v pumpě";
+/* Czech localization completion */
+"Warns when pump reservoir insulin is low." = "Upozorní na nízké množství inzulínu v zásobníku pumpy.";
